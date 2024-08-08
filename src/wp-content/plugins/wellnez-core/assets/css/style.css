@@ -1,0 +1,210 @@
+.cmb-type-icon ul.icon-scroll {
+  max-height: 150px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+body #side-sortables .cmb2-wrap>.cmb-field-list>.cmb-type-icon {
+  /* no more fields */
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+.cmb-type-icon ul li {
+  border: 1px solid Transparent;
+}
+
+.cmb-type-icon ul.icon-scroll li {
+  padding: 2px;
+  float: left;
+  white-space: nowrap;
+}
+
+.cmb-type-icon div ul li.selected {
+  opacity: 1.0;
+  border: 1px dashed #9999dd;
+}
+
+.cmb-type-icon div ul li.unselected:hover {
+  opacity: 1.0;
+}
+
+.cmb-type-icon div ul.icon-scroll li.unselected:hover {
+  border: 1px dashed #dddddd;
+}
+
+.cmb-type-icon div ul li.unselected {
+  opacity: 0.4;
+}
+
+.cmb-type-icon ul.icon-scroll li input {
+  display: none;
+}
+
+.cmb-type-icon ul.icon-scroll li img {
+  height: 48px;
+}
+
+.cmb-type-icon div ul li.custom_icon {
+  border: none;
+  clear: both;
+}
+
+.cmb-type-icon .custom_icon {
+  display: inline;
+}
+
+/*---------------------------------------------------
+GROUP LIST
+----------------------------------------------------*/
+.wellnez-list-group-wrapper {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.wellnez-list-group .wellnez-list-group-wrapper.layout_1 {
+  display: flex;
+  flex-direction: column;
+}
+
+.wellnez-list-group .wellnez-list-group-wrapper.layout_2 {
+  display: flex;
+  flex-direction: row;
+}
+
+.wellnez-list-group .wellnez-list-group-wrapper .wellnez-list-group-item,
+.wellnez-list-group .wellnez-list-group-wrapper .wellnez-list-group-item a {
+  position: relative;
+  line-height: 1;
+  display: flex;
+}
+
+.wellnez-list-group .wellnez-list-group-wrapper .wellnez-list-group-item.wellnez-icon-center,
+.wellnez-list-group .wellnez-list-group-wrapper .wellnez-list-group-item.wellnez-icon-center a {
+  flex-direction: column;
+}
+
+.wellnez-list-group .wellnez-list-group-wrapper .wellnez-list-group-item.wellnez-icon-right .wellnez-list-group-icon {
+  order: 2;
+}
+
+.wellnez-list-group .wellnez-list-group-wrapper .wellnez-list-group-item .wellnez-list-group-icon .wellnez-list-group-icon-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.wellnez-list-group .wellnez-list-group-wrapper .wellnez-list-group-item .wellnez-list-group-icon .wellnez-list-group-icon-image {
+  display: flex;
+}
+
+.wellnez-list-group .wellnez-list-group-wrapper.layout_1 .wellnez-list-group-item:after {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  content: "";
+  left: 0;
+}
+
+.wellnez-list-group .wellnez-list-group-wrapper .wellnez-list-group-item .wellnez-list-group-icon.yes {
+  transition: 0.4s;
+}
+
+.wellnez-list-group .wellnez-list-group-wrapper.layout_2 .wellnez-list-group-item:after {
+  position: absolute;
+  right: 0;
+  height: 100%;
+  content: "";
+  top: 0;
+}
+
+.wellnez-list-group .wellnez-list-group-wrapper .wellnez-list-group-item .wellnez-list-group-icon.yes {
+  position: relative;
+}
+
+.wellnez-list-group .wellnez-list-group-wrapper .wellnez-list-group-item .wellnez-list-group-icon.yes i,
+.wellnez-list-group .wellnez-list-group-wrapper .wellnez-list-group-item .wellnez-list-group-icon.yes .wellnez-list-group-icon-image,
+.wellnez-list-group .wellnez-list-group-wrapper .wellnez-list-group-item .wellnez-list-group-icon.yes .wellnez-list-group-icon-number {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.wellnez-list-group .wellnez-list-group-wrapper .wellnez-list-group-item .wellnez-list-group-icon.yes .wellnez-list-group-icon-number {
+  line-height: 0;
+}
+
+
+@media (max-width: 767px) {
+  .wellnez-list-group .wellnez-list-group-wrapper.layout_2 {
+    display: block;
+  }
+
+  .wellnez-list-group .wellnez-list-group-wrapper .wellnez-list-group-item {
+    display: inline-block;
+  }
+}
+
+span.wellnez-list-group-text {
+  transition: 0.4s;
+}
+
+
+
+
+
+/* List Group CSS End */
+
+/* Dual Headding CSS */
+.wellnez-addons-dual-heading .wellnez-addons-dual-heading-wrapper {
+  padding: 5px;
+}
+
+.wellnez-addons-dual-heading .wellnez-addons-dual-heading-wrapper .wellnez-addons-dual-heading-description {
+  line-height: 26px;
+  margin: 30px 0 0 0;
+  padding: 10px;
+  font-weight: 400;
+}
+
+.wellnez-addons-dual-heading .wellnez-addons-dual-heading-wrapper .wellnez-addons-dual-heading-icon {
+  display: inline-block;
+}
+
+.wellnez-addons-dual-heading .wellnez-addons-dual-heading-wrapper .wellnez-addons-dual-heading-icon i {
+  font-size: 36px;
+}
+
+.wellnez-addons-dual-heading .wellnez-addons-dual-heading-wrapper .wellnez-addons-dual-heading-title {
+  font-size: 36px;
+  margin-top: 10px;
+}
+
+.wellnez-addons-dual-heading .wellnez-addons-dual-heading-wrapper .wellnez-addons-dual-heading-title {
+  font-size: 30px;
+  color: #132c47;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+/*    .wellnez-addons-dual-heading .wellnez-addons-dual-heading-wrapper .wellnez-addons-dual-heading-title .first-heading, .wellnez-addons-dual-heading .wellnez-addons-dual-heading-wrapper .wellnez-addons-dual-heading-title .second-heading {
+      padding: 15px 10px;
+  } */
+
+.wellnez-addons-dual-heading .wellnez-addons-dual-heading-wrapper .wellnez-addons-dual-heading-title span {
+  color: #132c47;
+  display: initial;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 1440px) {
+
+  .wellnez-addons-dual-heading .wellnez-addons-dual-heading-wrapper .wellnez-addons-dual-heading-title .first-heading,
+  .wellnez-addons-dual-heading .wellnez-addons-dual-heading-wrapper .wellnez-addons-dual-heading-title .second-heading {
+    padding: 0;
+  }
+}
+
+/* Dual Headding CSS End */

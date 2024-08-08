@@ -1,0 +1,5452 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Wellnez Helper\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-17 09:15+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.1\n"
+"X-Domain: mixlax"
+
+#: addons/footer-widgets/contact-info.php:81
+#: addons/footer-widgets/contact-info.php:93
+msgid " 8.00 am - 8.00 pm"
+msgstr ""
+
+#: addons/footer-widgets/contact-info.php:97
+#: addons/footer-widgets/contact-info.php:101
+msgid " 9.00 am - 6.00 pm"
+msgstr ""
+
+#: inc/widgets/adver-widget.php:58
+msgid " At"
+msgstr ""
+
+#: addons/widgets/feature-slider.php:94
+msgid " Book Appointment"
+msgstr ""
+
+#. 1: Plugin name 2: Elementor
+#: addons/addons.php:151
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#. 1: Plugin name 2: Elementor 3: Required Elementor version
+#. 1: Plugin name 2: PHP 3: Required PHP version
+#: addons/addons.php:175 addons/addons.php:200
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: addons/widgets/contact-slider.php:94 inc/widgets/download-button.php:86
+#: inc/widgets/download-button.php:98
+msgid "#"
+msgstr ""
+
+#: inc/widgets/adver-widget.php:67
+msgid "$"
+msgstr ""
+
+#: addons/widgets/branch-information.php:109
+#: addons/widgets/branch-information.php:223
+msgid "(+244) 1999 256 289"
+msgstr ""
+
+#: addons/footer-widgets/contact-info.php:113
+msgid "+097 986 875 98 8"
+msgstr ""
+
+#: addons/widgets/branch-information.php:133
+#: addons/widgets/branch-information.php:250
+msgid "+85 (1256) 125 12562"
+msgstr ""
+
+#: addons/widgets/experience-info.php:753
+msgid "/Off"
+msgstr ""
+
+#: addons/widgets/mixlax-feature-image.php:46 inc/widgets/adver-widget.php:68
+msgid "/off"
+msgstr ""
+
+#: addons/header/header.php:77
+msgid "0123456789"
+msgstr ""
+
+#: addons/header/header-contact.php:98 addons/header/header-contact.php:111
+#: addons/header/header-contact.php:114
+msgid "02 478 658 8965"
+msgstr ""
+
+#: addons/footer-widgets/inquiry-number.php:60
+#: addons/footer-widgets/inquiry-number.php:68
+#: addons/footer-widgets/inquiry-number.php:76
+msgid "02 658 478 9654"
+msgstr ""
+
+#: addons/widgets/experience-info.php:313 addons/widgets/layer-slider.php:86
+msgid "052 (699) 256 - 692"
+msgstr ""
+
+#: addons/footer-widgets/about-widget.php:69
+msgid "05661-9262-0"
+msgstr ""
+
+#: addons/widgets/mixlax-counterup.php:127
+msgid "1"
+msgstr ""
+
+#: addons/widgets/mixlax-counterup.php:135
+msgid "10"
+msgstr ""
+
+#: addons/header/header.php:95
+msgid "14/A, Brown Tower, NewYork, United State"
+msgstr ""
+
+#: addons/footer-widgets/contact-info.php:130
+msgid "14/A, Brown Tower, NewYork, US"
+msgstr ""
+
+#: addons/widgets/blog-post.php:91
+msgid "16"
+msgstr ""
+
+#: addons/widgets/skill-bar.php:47 addons/widgets/team-member.php:78
+msgid "2 Column"
+msgstr ""
+
+#: addons/widgets/list-style.php:62 addons/widgets/list-style.php:65
+msgid "24 Month / 24,000km Nationwide Warranty monotone"
+msgstr ""
+
+#: addons/widgets/about-us-counter-box.php:90
+#: addons/widgets/mixlax-counterup.php:71
+#: addons/widgets/mixlax-counterup.php:93
+#: addons/widgets/mixlax-counterup.php:123
+#: addons/widgets/mixlax-counterup.php:131
+msgid "25"
+msgstr ""
+
+#: addons/footer-widgets/news-feed.php:68 addons/widgets/blog-post.php:61
+msgid "3"
+msgstr ""
+
+#: addons/widgets/skill-bar.php:48 addons/widgets/team-member.php:79
+msgid "3 Column"
+msgstr ""
+
+#: addons/widgets/project-slider.php:167
+msgid "369"
+msgstr ""
+
+#: addons/widgets/skill-bar.php:49 addons/widgets/team-member.php:80
+msgid "4 Column"
+msgstr ""
+
+#: addons/widgets/mixlax-counterup.php:139
+msgid "50"
+msgstr ""
+
+#: addons/widgets/project-slider.php:164
+msgid "585"
+msgstr ""
+
+#: addons/footer-widgets/news-feed.php:77 addons/widgets/blog-post.php:70
+msgid "6"
+msgstr ""
+
+#: addons/widgets/skill-bar.php:50 addons/widgets/team-member.php:81
+msgid "6 Column"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-table.php:75
+msgid ""
+"60 min <span class=\"inner-label\">$100</span> / 90 min <span class=\"inner-"
+"label\">$145</span>"
+msgstr ""
+
+#: addons/widgets/experience-info.php:295
+msgid "8:00 am - 5:30 pm"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-slider.php:49
+#: addons/widgets/mixlax-pricing-tab.php:59
+msgid "<sub>$</sub><span>99</span><sub>.00</sub>"
+msgstr ""
+
+#: addons/header/menu-shortocde.php:47
+msgid "[shortcode here]"
+msgstr ""
+
+#: addons/widgets/mixlax-feature.php:115 addons/widgets/mixlax-feature.php:129
+#: addons/widgets/mixlax-feature.php:133 addons/widgets/mixlax-feature.php:137
+#: addons/widgets/mixlax-feature.php:171 addons/widgets/mixlax-feature.php:185
+#: addons/widgets/mixlax-feature.php:189 addons/widgets/mixlax-feature.php:193
+msgid "A range of different massage techniques reflexology"
+msgstr ""
+
+#: addons/widgets/about-us-image.php:46
+msgid "ABout Image Style"
+msgstr ""
+
+#: addons/footer-widgets/about-widget.php:51
+#: addons/footer-widgets/about-widget.php:53
+msgid "About Subtitle"
+msgstr ""
+
+#: addons/footer-widgets/about-widget.php:169
+msgid "About Subtitle Color"
+msgstr ""
+
+#: addons/footer-widgets/about-widget.php:187
+msgid "About Subtitle Margin"
+msgstr ""
+
+#: addons/footer-widgets/about-widget.php:199
+msgid "About Subtitle Padding"
+msgstr ""
+
+#: addons/footer-widgets/about-widget.php:180
+msgid "About Subtitle Typography"
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:142
+msgid "About Text:"
+msgstr ""
+
+#: addons/footer-widgets/about-widget.php:43
+msgid "About Title"
+msgstr ""
+
+#: addons/footer-widgets/about-widget.php:136
+msgid "About Title Margin"
+msgstr ""
+
+#: addons/footer-widgets/about-widget.php:148
+msgid "About Title Padding"
+msgstr ""
+
+#: addons/footer-widgets/about-widget.php:129
+msgid "About Title Typography"
+msgstr ""
+
+#: addons/footer-widgets/about-widget.php:17
+#: addons/widgets/experience-info.php:21
+msgid "About Us"
+msgstr ""
+
+#: addons/widgets/about-us-counter-box.php:18
+msgid "About Us Count Box"
+msgstr ""
+
+#: addons/widgets/experience-info.php:192
+msgid "About Us Description"
+msgstr ""
+
+#: addons/widgets/experience-info.php:503
+msgid "About Us Description Color"
+msgstr ""
+
+#: addons/widgets/experience-info.php:516
+msgid "About Us Description Typography"
+msgstr ""
+
+#: addons/widgets/about-us-image.php:21 addons/widgets/about-us-image.php:38
+msgid "About Us Image"
+msgstr ""
+
+#: addons/widgets/experience-info.php:525
+msgid "About Us List Color"
+msgstr ""
+
+#: addons/widgets/experience-info.php:538
+msgid "About Us List Typography"
+msgstr ""
+
+#: addons/widgets/experience-info.php:183
+msgid "About Us Section Title"
+msgstr ""
+
+#: addons/widgets/experience-info.php:481
+msgid "About Us Section Title Color"
+msgstr ""
+
+#: addons/widgets/experience-info.php:494
+msgid "About Us Section Title Typography"
+msgstr ""
+
+#: addons/widgets/experience-info.php:44
+msgid "About Us Style"
+msgstr ""
+
+#: addons/footer-widgets/about-widget.php:36
+msgid "About Us Title"
+msgstr ""
+
+#: addons/footer-widgets/about-widget.php:118
+msgid "About Us Title Color"
+msgstr ""
+
+#: addons/widgets/mixlax-feature.php:84
+msgid ""
+"Access to our fitness centre and pool is free to all our hotel guests. For "
+"non-guests membership packages are available."
+msgstr ""
+
+#: addons/widgets/layer-slider.php:84
+msgid "Action Box Number"
+msgstr ""
+
+#: addons/widgets/experience-info.php:589
+msgid "Action Box Text Color"
+msgstr ""
+
+#: addons/widgets/experience-info.php:602
+msgid "Action Box Text Typography"
+msgstr ""
+
+#: addons/footer-widgets/about-widget.php:59 addons/widgets/layer-slider.php:75
+msgid "Action Box Title"
+msgstr ""
+
+#: addons/widgets/experience-info.php:568
+msgid "Action Box Title Color"
+msgstr ""
+
+#: addons/widgets/experience-info.php:581
+msgid "Action Box Title Typography"
+msgstr ""
+
+#: addons/widgets/feature-slider.php:222
+msgid "Active Button Background Color"
+msgstr ""
+
+#: addons/widgets/feature-slider.php:211
+msgid "Active Button Color"
+msgstr ""
+
+#: addons/widgets/mixlax-counterup.php:128
+msgid "Active Clients"
+msgstr ""
+
+#: addons/widgets/contact-slider.php:204
+msgid "Active Color"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-tab.php:205
+msgid "Active Tab Background Color"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-tab.php:194
+msgid "Active Tab Color"
+msgstr ""
+
+#: addons/widgets/mixlax-tab.php:172
+msgid "Active Title Background Color"
+msgstr ""
+
+#: addons/widgets/mixlax-tab.php:139
+msgid "Active Title Color"
+msgstr ""
+
+#: inc/widgets/about-me-widget.php:30
+msgid "Add About Me Widget"
+msgstr ""
+
+#: inc/widgets/about-us-widget.php:29
+msgid "Add About Us Widget"
+msgstr ""
+
+#: inc/widgets/adver-widget.php:30
+msgid "Add Advertise Image Widget"
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:24
+msgid "Add Contact Info"
+msgstr ""
+
+#: inc/widgets/demo-widget.php:29
+msgid "Add Demo Widget"
+msgstr ""
+
+#: inc/widgets/download-button.php:30
+msgid "Add Download Button Widget"
+msgstr ""
+
+#: inc/widgets/gallery-widget.php:82
+msgid "Add Gallery Image"
+msgstr ""
+
+#: inc/widgets/gallery-widget.php:30
+msgid "Add Gallery Widget"
+msgstr ""
+
+#: inc/widgets/google-map.php:24
+msgid "Add Google Map"
+msgstr ""
+
+#: inc/widgets/inquiry-widget.php:24
+msgid "Add Inquiry Number"
+msgstr ""
+
+#: addons/widgets/list-style.php:57
+msgid "Add List"
+msgstr ""
+
+#: inc/mixlaxcore-functions.php:140
+msgid "Add New Category"
+msgstr ""
+
+#: inc/mixlaxcore-functions.php:100
+msgid "Add New Project"
+msgstr ""
+
+#: inc/mixlaxcore-functions.php:173
+msgid "Add New Tag"
+msgstr ""
+
+#: inc/widgets/newsletter-widget.php:24
+msgid "Add Newsletter"
+msgstr ""
+
+#: inc/mixlaxcore-functions.php:143
+msgid "Add or remove Categorys"
+msgstr ""
+
+#: inc/mixlaxcore-functions.php:176
+msgid "Add or remove Tags"
+msgstr ""
+
+#: inc/widgets/product-category-filter.php:30
+msgid "Add Product Categories Filter Widget"
+msgstr ""
+
+#: inc/widgets/product-tag-filter.php:30
+msgid "Add Product Tags Filter Widget"
+msgstr ""
+
+#: inc/widgets/recent-post-widget.php:30
+msgid "Add Recent Posts Widget"
+msgstr ""
+
+#: addons/header/header.php:137 addons/header/header.php:140
+#: inc/widgets/social-widget.php:24
+msgid "Add Social Icon"
+msgstr ""
+
+#: inc/widgets/about-me-widget.php:168
+msgid "Add Social link from "
+msgstr ""
+
+#: inc/widgets/share-widget.php:24
+msgid "Add Social Share Page Widget"
+msgstr ""
+
+#: addons/footer-widgets/contact-info.php:128
+msgid "Address"
+msgstr ""
+
+#: addons/header/header.php:537
+msgid "Address Color"
+msgstr ""
+
+#: addons/widgets/google-map.php:36
+msgid "Addresss"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:506
+msgid "After Shape Bg"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:541
+msgid "After Shape Right Position"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:517
+msgid "After Shape Top Position"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:565
+msgid "After Shape Width"
+msgstr ""
+
+#: addons/widgets/button.php:92
+msgid "After Text"
+msgstr ""
+
+#: addons/widgets/mixlax-menu.php:126 addons/widgets/mixlax-menu.php:156
+msgid "Align"
+msgstr ""
+
+#: addons/header/button-icon.php:72 addons/header/header-contact.php:124
+#: addons/widgets/button.php:100 addons/widgets/call-to-action.php:111
+#: addons/widgets/image.php:62 addons/widgets/mixlax-tab.php:83
+#: addons/widgets/section-title.php:107
+msgid "Alignment"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:136 addons/widgets/mixlax-project.php:53
+msgid "All"
+msgstr ""
+
+#: inc/mixlaxcore-functions.php:135
+msgid "All Categorys"
+msgstr ""
+
+#: addons/header/header-vertical-menu.php:71
+msgid "All Menu"
+msgstr ""
+
+#: inc/mixlaxcore-functions.php:104
+msgid "All Projects"
+msgstr ""
+
+#: addons/footer-widgets/footer-copyright.php:63
+msgid "All Right Reserved"
+msgstr ""
+
+#: inc/mixlaxcore-functions.php:168
+msgid "All Tags"
+msgstr ""
+
+#: addons/widgets/branch-information.php:125
+#: addons/widgets/branch-information.php:241
+msgid "An der Schillingbrucke 20, Aalen Aalen 73431"
+msgstr ""
+
+#: addons/widgets/mixlax-faq.php:67 addons/widgets/mixlax-faq.php:71
+msgid ""
+"An immersive wellness company founded by Adam Gazzaley, Ph.D., and Alex "
+"Theory, Ph.D., The Vessel helps guests reset their brains with a host of "
+"customized journeys: Deep Space, Kairos, Ocean Cove, Zen Garden, Quantum "
+"Oneness, Crystal Cave, Lost Jungle."
+msgstr ""
+
+#: addons/widgets/animation-image.php:21 addons/widgets/animation-image.php:38
+msgid "Animation Image"
+msgstr ""
+
+#: addons/widgets/animation-image.php:73
+msgid "Animation Type"
+msgstr ""
+
+#: inc/mixlaxajax.php:60
+msgid "Apikey Or Listid Missing."
+msgstr ""
+
+#: addons/widgets/mixlax-tab.php:56
+msgid ""
+"As part of a new partnership with Sensync, an immersive wellness company "
+"founded by Adam Gazzaley, Ph.D., and Alex Theory, Ph.D., The Vessel helps "
+"guests reset their brains with a host of customized."
+msgstr ""
+
+#: addons/footer-widgets/news-feed.php:87 addons/widgets/blog-post.php:102
+msgid "ASC"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:165 addons/widgets/mixlax-project.php:82
+msgid "Ascending"
+msgstr ""
+
+#: addons/footer-widgets/news-feed.php:101 addons/widgets/blog-post.php:116
+msgid "Author"
+msgstr ""
+
+#: addons/widgets/branch-information.php:91
+#: addons/widgets/branch-information.php:203
+msgid "Author Designation"
+msgstr ""
+
+#: inc/widgets/about-me-widget.php:160
+msgid "Author Designation:"
+msgstr ""
+
+#: addons/widgets/branch-information.php:99
+#: addons/widgets/branch-information.php:212
+msgid "Author Email"
+msgstr ""
+
+#: addons/widgets/branch-information.php:72
+#: addons/widgets/branch-information.php:182
+msgid "Author Image"
+msgstr ""
+
+#: addons/widgets/branch-information.php:83
+#: addons/widgets/branch-information.php:194
+msgid "Author Name"
+msgstr ""
+
+#: inc/widgets/about-me-widget.php:156
+msgid "Author Name:"
+msgstr ""
+
+#: addons/widgets/branch-information.php:107
+#: addons/widgets/branch-information.php:221
+msgid "Author Phone"
+msgstr ""
+
+#: addons/widgets/client-logo.php:128
+#: addons/widgets/contact-form-slider.php:107
+#: addons/widgets/instagram-slider.php:108
+#: addons/widgets/post-details-slider.php:84
+#: addons/widgets/project-slider.php:219
+#: addons/widgets/service-details-slider.php:84
+msgid "Autoplay"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:311
+msgid "Back To Top Bg"
+msgstr ""
+
+#: addons/header/header.php:260 addons/widgets/blog-post.php:210
+#: addons/widgets/experience-info.php:114
+#: addons/widgets/mixlax-separator.php:66 addons/widgets/price-plan-box.php:86
+#: addons/widgets/project-next-prev.php:41
+msgid "Background"
+msgstr ""
+
+#: addons/widgets/about-us-counter-box.php:116
+#: addons/widgets/mixlax-counterup.php:161
+#: addons/widgets/mixlax-newsletter.php:93
+#: addons/widgets/mixlax-price-estimator.php:169
+msgid "Background Color"
+msgstr ""
+
+#: addons/widgets/contact-slider.php:46
+msgid "Background Image"
+msgstr ""
+
+#: addons/widgets/contact-form.php:116 addons/widgets/contact-form.php:127
+msgid "Background Shape Image"
+msgstr ""
+
+#: inc/widgets/demo-widget.php:146
+msgid "Badge:"
+msgstr ""
+
+#: addons/widgets/experience-info.php:267
+msgid "Banner Currency"
+msgstr ""
+
+#: addons/widgets/experience-info.php:275
+msgid "Banner Discount Price"
+msgstr ""
+
+#: addons/widgets/experience-info.php:231
+msgid "Banner Image"
+msgstr ""
+
+#: addons/widgets/experience-info.php:259
+msgid "Banner Image Title"
+msgstr ""
+
+#: addons/widgets/experience-info.php:547
+msgid "Banner Image Title Color"
+msgstr ""
+
+#: addons/widgets/experience-info.php:560
+msgid "Banner Image Title Typography"
+msgstr ""
+
+#: addons/widgets/skill-bar.php:147
+msgid "Bar Background Color"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-slider.php:115
+#: addons/widgets/mixlax-pricing-tab.php:49
+#: addons/widgets/mixlax-pricing-tab.php:125
+msgid "Basic Plan"
+msgstr ""
+
+#: addons/header/header-contact.php:187
+msgid "Before Contact Icon"
+msgstr ""
+
+#: addons/header/header-contact.php:196
+msgid "Before Contact Icon Color"
+msgstr ""
+
+#: addons/header/header-contact.php:207
+msgid "Before Contact Icon Margin"
+msgstr ""
+
+#: addons/header/header-contact.php:219
+msgid "Before Contact Icon Padding"
+msgstr ""
+
+#: addons/header/header-contact.php:59
+msgid "Before Contact Info"
+msgstr ""
+
+#: addons/header/header-contact.php:233
+msgid "Before Contact Text"
+msgstr ""
+
+#: addons/header/header-contact.php:242
+msgid "Before Contact Text Color"
+msgstr ""
+
+#: addons/header/header-contact.php:262
+msgid "Before Contact Text Margin"
+msgstr ""
+
+#: addons/header/header-contact.php:274
+msgid "Before Contact Text Padding"
+msgstr ""
+
+#: addons/header/header-contact.php:254
+msgid "Before Contact Text Typography"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:414
+msgid "Before Shape Bg"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:449
+msgid "Before Shape Left Position"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:425
+msgid "Before Shape Top Position"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:473
+msgid "Before Shape Width"
+msgstr ""
+
+#: addons/widgets/button.php:91
+msgid "Before Text"
+msgstr ""
+
+#: addons/widgets/experience-info.php:136
+msgid "Best Services Company"
+msgstr ""
+
+#: addons/header/button-icon.php:228
+msgid "Block"
+msgstr ""
+
+#: addons/widgets/blog-post.php:20 addons/widgets/blog-post.php:36
+msgid "Blog Post"
+msgstr ""
+
+#: addons/footer-widgets/border.php:44
+#: addons/footer-widgets/footer-copyright.php:264
+#: addons/footer-widgets/footer-copyright.php:320
+#: addons/footer-widgets/newsletter-widget.php:349
+#: addons/header/header-vertical-menu.php:188 addons/header/header.php:369
+#: addons/header/header.php:468 addons/header/menu-shortocde.php:211
+#: addons/widgets/button.php:182 addons/widgets/mixlax-menu.php:275
+#: addons/widgets/mixlax-menu.php:374 addons/widgets/mixlax-tab.php:218
+#: addons/widgets/price-plan-box.php:159 addons/widgets/project-slider.php:355
+#: addons/widgets/section-title.php:223
+msgid "Border"
+msgstr ""
+
+#: addons/widgets/mixlax-price-estimator.php:180
+msgid "Border Color"
+msgstr ""
+
+#: addons/header/button-icon.php:163 addons/widgets/image.php:224
+msgid "Border Radius"
+msgstr ""
+
+#: addons/header/button-icon.php:182
+msgid "Bottom"
+msgstr ""
+
+#: addons/widgets/animation-image.php:109
+msgid "Bottom Position"
+msgstr ""
+
+#: addons/widgets/project-details-meta.php:203
+msgid "Bottom Text Color"
+msgstr ""
+
+#: addons/widgets/project-details-meta.php:221
+msgid "Bottom Text Margin"
+msgstr ""
+
+#: addons/widgets/project-details-meta.php:232
+msgid "Bottom Text Padding"
+msgstr ""
+
+#: addons/widgets/project-details-meta.php:214
+msgid "Bottom Text Typography"
+msgstr ""
+
+#: addons/widgets/contact-slider.php:171
+#: addons/widgets/project-details-meta.php:140
+#: addons/widgets/testimonial-slider.php:199
+msgid "Box Background Color"
+msgstr ""
+
+#: addons/widgets/contact-slider.php:182
+msgid "Box Border Color"
+msgstr ""
+
+#: addons/footer-widgets/footer-copyright.php:283
+#: addons/footer-widgets/footer-copyright.php:328 addons/header/header.php:389
+#: addons/header/header.php:488 addons/widgets/blog-post.php:221
+#: addons/widgets/carvis-service.php:385 addons/widgets/mixlax-menu.php:295
+#: addons/widgets/mixlax-menu.php:394
+#: addons/widgets/mixlax-pricing-table.php:140
+msgid "Box Shadow"
+msgstr ""
+
+#: addons/widgets/branch-information.php:139
+#: addons/widgets/branch-information.php:257
+msgid "Branch Email"
+msgstr ""
+
+#: addons/widgets/branch-information.php:62
+#: addons/widgets/branch-information.php:171
+msgid "Branch Image"
+msgstr ""
+
+#: addons/widgets/branch-information.php:20
+#: addons/widgets/branch-information.php:39
+#: addons/widgets/branch-information.php:156
+msgid "Branch Information"
+msgstr ""
+
+#: addons/widgets/branch-information.php:123
+#: addons/widgets/branch-information.php:239
+msgid "Branch Location"
+msgstr ""
+
+#: addons/widgets/branch-information.php:115
+#: addons/widgets/branch-information.php:230
+msgid "Branch Name"
+msgstr ""
+
+#: addons/widgets/branch-information.php:131
+#: addons/widgets/branch-information.php:248
+msgid "Branch Phone Number"
+msgstr ""
+
+#: addons/widgets/button.php:18 addons/widgets/button.php:34
+msgid "Button"
+msgstr ""
+
+#: addons/widgets/button.php:159 addons/widgets/experience-info.php:621
+#: addons/widgets/layer-slider.php:1286 addons/widgets/layer-slider.php:1427
+#: addons/widgets/mixlax-price-estimator.php:203
+#: addons/widgets/price-plan-box.php:137 addons/widgets/project-slider.php:333
+msgid "Button Background Color"
+msgstr ""
+
+#: addons/widgets/button.php:170 addons/widgets/price-plan-box.php:147
+#: addons/widgets/project-slider.php:343
+msgid "Button Background Hover Color"
+msgstr ""
+
+#: addons/widgets/mixlax-newsletter.php:104
+msgid "Button Background On Hover"
+msgstr ""
+
+#: addons/widgets/mixlax-price-estimator.php:214
+msgid "Button Border Color"
+msgstr ""
+
+#: addons/footer-widgets/contact-info.php:218 addons/widgets/button.php:137
+#: addons/widgets/layer-slider.php:1276 addons/widgets/layer-slider.php:1407
+#: addons/widgets/mixlax-newsletter.php:71
+#: addons/widgets/mixlax-price-estimator.php:192
+#: addons/widgets/mixlax-video.php:192 addons/widgets/price-plan-box.php:126
+#: addons/widgets/project-slider.php:322
+msgid "Button Color"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:1366 addons/widgets/layer-slider.php:1507
+msgid "Button Height"
+msgstr ""
+
+#: addons/widgets/experience-info.php:633 addons/widgets/layer-slider.php:1296
+#: addons/widgets/layer-slider.php:1437
+#: addons/widgets/mixlax-price-estimator.php:236
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: addons/widgets/mixlax-price-estimator.php:247
+msgid "Button Hover Border Color"
+msgstr ""
+
+#: addons/widgets/button.php:148 addons/widgets/layer-slider.php:1417
+#: addons/widgets/mixlax-newsletter.php:82
+#: addons/widgets/mixlax-price-estimator.php:225
+#: addons/widgets/mixlax-video.php:202
+msgid "Button Hover Color"
+msgstr ""
+
+#: addons/widgets/button.php:247
+msgid "Button Icon Background Color"
+msgstr ""
+
+#: addons/widgets/button.php:259
+msgid "Button Icon Background Hover Color"
+msgstr ""
+
+#: addons/widgets/button.php:79
+msgid "Button Icon Class"
+msgstr ""
+
+#: addons/widgets/button.php:223
+msgid "Button Icon Color"
+msgstr ""
+
+#: addons/widgets/button.php:235
+msgid "Button Icon Color Hover"
+msgstr ""
+
+#: addons/widgets/button.php:87
+msgid "Button Icon Position"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:1326 addons/widgets/layer-slider.php:1467
+msgid "Button Left Spacing"
+msgstr ""
+
+#: addons/widgets/feature-slider.php:102
+msgid "Button Link"
+msgstr ""
+
+#: addons/footer-widgets/newsletter-widget.php:316
+#: addons/widgets/button.php:199 addons/widgets/project-slider.php:372
+msgid "Button Margin"
+msgstr ""
+
+#: addons/widgets/mixlax-video.php:242
+msgid "Button Max Width"
+msgstr ""
+
+#: addons/footer-widgets/newsletter-widget.php:327
+#: addons/widgets/button.php:211 addons/widgets/project-slider.php:384
+msgid "Button Padding"
+msgstr ""
+
+#: addons/widgets/button.php:42 addons/widgets/button.php:129
+#: addons/widgets/call-to-action.php:73 addons/widgets/layer-slider.php:1264
+#: addons/widgets/layer-slider.php:1395 addons/widgets/mixlax-video.php:97
+#: addons/widgets/project-slider.php:314
+msgid "Button Style"
+msgstr ""
+
+#: addons/footer-widgets/contact-info.php:137
+#: addons/footer-widgets/contact-info.php:139
+#: addons/widgets/branch-information.php:147 addons/widgets/button.php:55
+#: addons/widgets/button.php:57 addons/widgets/call-to-action.php:86
+#: addons/widgets/call-to-action.php:88 addons/widgets/experience-info.php:337
+#: addons/widgets/feature-slider.php:92
+#: addons/widgets/mixlax-pricing-slider.php:85
+#: addons/widgets/mixlax-pricing-tab.php:95
+#: addons/widgets/price-plan-box.php:53 addons/widgets/project-slider.php:77
+#: addons/widgets/project-slider.php:79
+msgid "Button Text"
+msgstr ""
+
+#: addons/widgets/experience-info.php:610
+msgid "Button Text Color"
+msgstr ""
+
+#: addons/widgets/experience-info.php:646
+msgid "Button Text Typography"
+msgstr ""
+
+#: addons/widgets/mixlax-project.php:113
+msgid "Button Text Url"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:1306 addons/widgets/layer-slider.php:1447
+msgid "Button Top Spacing"
+msgstr ""
+
+#: addons/footer-widgets/contact-info.php:230 addons/widgets/button.php:191
+#: addons/widgets/mixlax-newsletter.php:116 addons/widgets/mixlax-video.php:213
+#: addons/widgets/pagination-layout.php:186
+#: addons/widgets/price-plan-box.php:168 addons/widgets/project-slider.php:364
+msgid "Button Typography"
+msgstr ""
+
+#: addons/widgets/experience-info.php:347
+msgid "Button Url"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:1346 addons/widgets/layer-slider.php:1487
+msgid "Button Width"
+msgstr ""
+
+#: addons/widgets/blog-post.php:638 addons/widgets/blog-post.php:678
+#: addons/widgets/blog-post.php:730
+msgid "By "
+msgstr ""
+
+#: addons/widgets/call-to-action.php:17
+msgid "Call to Action"
+msgstr ""
+
+#: addons/footer-widgets/contact-info.php:299
+msgid "Call Us 24/7 On:"
+msgstr ""
+
+#: inc/widgets/adver-widget.php:58
+msgid "Car"
+msgstr ""
+
+#: addons/widgets/branch-information.php:117
+#: addons/widgets/branch-information.php:232
+msgid "Carvis Joffre Paris, Service Center"
+msgstr ""
+
+#: addons/widgets/branch-information.php:141
+#: addons/widgets/branch-information.php:259
+msgid "carvis-services.dc@gmail.com"
+msgstr ""
+
+#: addons/widgets/project-details-meta.php:56
+msgid "Case Name"
+msgstr ""
+
+#: inc/mixlaxcore-functions.php:146 addons/widgets/carvis-service.php:137
+#: addons/widgets/mixlax-project.php:54
+msgid "Categories"
+msgstr ""
+
+#: addons/widgets/project-details-meta.php:100
+msgid "Category"
+msgstr ""
+
+#: addons/widgets/project-details-meta.php:98
+msgid "Category Bottom Text"
+msgstr ""
+
+#: addons/header/button-icon.php:80 addons/header/button-icon.php:206
+#: addons/header/header-contact.php:132 addons/header/logo.php:109
+#: addons/header/menu-shortocde.php:72 addons/widgets/button.php:108
+#: addons/widgets/call-to-action.php:119 addons/widgets/image.php:70
+#: addons/widgets/mixlax-menu.php:135 addons/widgets/mixlax-menu.php:165
+#: addons/widgets/mixlax-tab.php:91 addons/widgets/section-title.php:115
+msgid "Center"
+msgstr ""
+
+#: inc/widgets/about-me-widget.php:153 inc/widgets/about-us-widget.php:115
+#: inc/widgets/adver-widget.php:120 inc/widgets/contact-info-widget.php:137
+#: inc/widgets/demo-widget.php:139
+msgid "Change Image"
+msgstr ""
+
+#: addons/widgets/about-us-counter-box.php:46
+#: addons/widgets/about-us-image.php:59
+msgid "Choose About Us One Image"
+msgstr ""
+
+#: addons/widgets/about-us-image.php:86
+msgid "Choose About Us Three Image"
+msgstr ""
+
+#: addons/widgets/about-us-counter-box.php:59
+#: addons/widgets/about-us-image.php:72
+msgid "Choose About Us Two Image"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:325
+msgid "Choose Bg Shape"
+msgstr ""
+
+#: addons/widgets/contact-slider.php:57
+msgid "Choose Contact Icon"
+msgstr ""
+
+#: addons/widgets/mixlax-feature-image.php:71
+msgid "Choose Feature Image"
+msgstr ""
+
+#: inc/mixlaxcore-functions.php:144
+msgid "Choose from the most used Categorys"
+msgstr ""
+
+#: inc/mixlaxcore-functions.php:177
+msgid "Choose from the most used Tags"
+msgstr ""
+
+#: addons/widgets/animation-image.php:46 addons/widgets/experience-info.php:66
+#: addons/widgets/how-it-works.php:71 addons/widgets/image.php:48
+#: addons/widgets/mixlax-pricing-table.php:49
+#: addons/widgets/testimonial-slider.php:72
+msgid "Choose Image"
+msgstr ""
+
+#: addons/footer-widgets/inquiry-number.php:51
+msgid "Choose Logo"
+msgstr ""
+
+#: addons/widgets/about-us-image.php:100
+msgid "Choose Pattern Image"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:336
+msgid "Choose Service Inner Shape"
+msgstr ""
+
+#: addons/widgets/testimonial-slider.php:92
+msgid "Client Designation"
+msgstr ""
+
+#: addons/widgets/testimonial-slider.php:285
+msgid "Client Designation Color"
+msgstr ""
+
+#: addons/widgets/testimonial-slider.php:305
+msgid "Client Designation Margin"
+msgstr ""
+
+#: addons/widgets/testimonial-slider.php:317
+msgid "Client Designation Padding"
+msgstr ""
+
+#: addons/widgets/testimonial-slider.php:297
+msgid "Client Designation Typography"
+msgstr ""
+
+#: addons/widgets/testimonial-slider.php:108
+#: addons/widgets/testimonial-slider.php:385
+msgid "Client Feedback Description"
+msgstr ""
+
+#: addons/widgets/testimonial-slider.php:393
+msgid "Client Feedback Description Color"
+msgstr ""
+
+#: addons/widgets/testimonial-slider.php:413
+msgid "Client Feedback Description Margin"
+msgstr ""
+
+#: addons/widgets/testimonial-slider.php:425
+msgid "Client Feedback Description Padding"
+msgstr ""
+
+#: addons/widgets/testimonial-slider.php:405
+msgid "Client Feedback Description Typography"
+msgstr ""
+
+#: addons/widgets/testimonial-slider.php:100
+#: addons/widgets/testimonial-slider.php:331
+msgid "Client Feedback Title"
+msgstr ""
+
+#: addons/widgets/testimonial-slider.php:339
+msgid "Client Feedback Title Color"
+msgstr ""
+
+#: addons/widgets/testimonial-slider.php:359
+msgid "Client Feedback Title Margin"
+msgstr ""
+
+#: addons/widgets/testimonial-slider.php:371
+msgid "Client Feedback Title Padding"
+msgstr ""
+
+#: addons/widgets/testimonial-slider.php:351
+msgid "Client Feedback Title Typography"
+msgstr ""
+
+#: addons/widgets/testimonial-slider.php:117
+msgid "Client Image"
+msgstr ""
+
+#: addons/widgets/client-logo.php:19 addons/widgets/client-logo.php:35
+#: addons/widgets/client-logo.php:45
+msgid "Client Logo"
+msgstr ""
+
+#: addons/widgets/client-logo.php:72
+msgid "Client Logos"
+msgstr ""
+
+#: addons/widgets/testimonial-slider.php:84
+#: addons/widgets/testimonial-slider.php:223
+msgid "Client Name"
+msgstr ""
+
+#: addons/widgets/testimonial-slider.php:231
+msgid "Client Name Color"
+msgstr ""
+
+#: addons/widgets/testimonial-slider.php:251
+msgid "Client Name Margin"
+msgstr ""
+
+#: addons/widgets/testimonial-slider.php:263
+msgid "Client Name Padding"
+msgstr ""
+
+#: addons/widgets/testimonial-slider.php:243
+msgid "Client Name Typography"
+msgstr ""
+
+#: addons/widgets/contact-form.php:203
+#: addons/widgets/mixlax-price-estimator.php:158
+msgid "Color"
+msgstr ""
+
+#: addons/widgets/mixlax-menu.php:100
+msgid "Column"
+msgstr ""
+
+#: addons/header/menu-shortocde.php:421
+msgid "Column Padding"
+msgstr ""
+
+#: addons/widgets/mixlax-gallery.php:83
+msgid "Contact & Quote"
+msgstr ""
+
+#: addons/widgets/contact-form.php:18 addons/widgets/contact-form.php:37
+msgid "Contact Form"
+msgstr ""
+
+#: addons/widgets/contact-form-slider.php:58
+msgid "Contact Form Shortcode"
+msgstr ""
+
+#: addons/widgets/contact-form-slider.php:18
+#: addons/widgets/contact-form-slider.php:34
+msgid "Contact Form Slider"
+msgstr ""
+
+#: addons/footer-widgets/contact-info.php:19
+#: addons/footer-widgets/contact-info.php:38
+#: addons/header/header-contact.php:288
+msgid "Contact Info"
+msgstr ""
+
+#: addons/footer-widgets/contact-info.php:207
+msgid "Contact Info Anchor Hover Color"
+msgstr ""
+
+#: addons/footer-widgets/contact-info.php:189
+#: addons/header/header-contact.php:296
+msgid "Contact Info Color"
+msgstr ""
+
+#: addons/header/header-contact.php:307
+msgid "Contact Info Hover Color"
+msgstr ""
+
+#: addons/header/header-contact.php:327
+msgid "Contact Info Margin"
+msgstr ""
+
+#: addons/footer-widgets/contact-info.php:46
+msgid "Contact Info Style"
+msgstr ""
+
+#: addons/footer-widgets/contact-info.php:200
+#: addons/header/header-contact.php:319
+msgid "Contact Info Typography"
+msgstr ""
+
+#: addons/widgets/contact-slider.php:103
+msgid "Contact Information"
+msgstr ""
+
+#: addons/widgets/contact-slider.php:20 addons/widgets/contact-slider.php:36
+msgid "Contact Slider"
+msgstr ""
+
+#: addons/header/header-contact.php:339
+msgid "Contact Text Padding"
+msgstr ""
+
+#: addons/footer-widgets/contact-info.php:60
+msgid "Contact Title"
+msgstr ""
+
+#: addons/header/header-contact.php:46
+msgid "Contact Type"
+msgstr ""
+
+#: addons/footer-widgets/contact-info.php:62
+#: addons/widgets/branch-information.php:149
+msgid "Contact Us"
+msgstr ""
+
+#: addons/widgets/about-us-counter-box.php:38
+#: addons/widgets/mixlax-counterup.php:38 addons/widgets/mixlax-founder.php:38
+#: addons/widgets/team-single.php:35
+msgid "Content"
+msgstr ""
+
+#: addons/widgets/blog-post.php:128
+msgid "Continue Reading Button Text"
+msgstr ""
+
+#: addons/footer-widgets/footer-copyright.php:140
+msgid "Copyright Anchor Color"
+msgstr ""
+
+#: addons/footer-widgets/footer-copyright.php:130
+msgid "Copyright Color"
+msgstr ""
+
+#: addons/footer-widgets/footer-copyright.php:123
+msgid "Copyright Options"
+msgstr ""
+
+#: addons/footer-widgets/footer-copyright.php:61
+msgid "Copyright Text"
+msgstr ""
+
+#: addons/footer-widgets/footer-copyright.php:151
+msgid "Copyright Typography"
+msgstr ""
+
+#: addons/widgets/mixlax-counterup.php:140
+msgid "Core Service"
+msgstr ""
+
+#: addons/widgets/blog-post.php:242
+msgid "Count Background Color"
+msgstr ""
+
+#: addons/widgets/blog-post.php:230
+msgid "Count Text Color"
+msgstr ""
+
+#: addons/widgets/mixlax-counterup.php:59
+msgid "Counter Icon"
+msgstr ""
+
+#: addons/widgets/mixlax-counterup.php:118
+msgid "Counter Item"
+msgstr ""
+
+#: addons/widgets/about-us-counter-box.php:88
+#: addons/widgets/mixlax-counterup.php:69
+#: addons/widgets/mixlax-counterup.php:91 addons/widgets/project-slider.php:142
+msgid "Counter Number"
+msgstr ""
+
+#: addons/widgets/mixlax-counterup.php:100
+msgid "Counter Number Suffix"
+msgstr ""
+
+#: addons/widgets/project-slider.php:159
+msgid "Counter Slides"
+msgstr ""
+
+#: addons/widgets/mixlax-counterup.php:46
+msgid "Counter Style"
+msgstr ""
+
+#: addons/widgets/about-us-counter-box.php:97
+#: addons/widgets/mixlax-counterup.php:79
+#: addons/widgets/mixlax-counterup.php:109
+#: addons/widgets/project-slider.php:151
+msgid "Counter Text"
+msgstr ""
+
+#: addons/widgets/mixlax-counterup.php:18
+msgid "Counter Up"
+msgstr ""
+
+#: addons/widgets/about-us-counter-box.php:127
+#: addons/widgets/mixlax-counterup.php:185
+msgid "Counter Up Color"
+msgstr ""
+
+#: addons/widgets/about-us-counter-box.php:108
+#: addons/widgets/mixlax-counterup.php:153
+msgid "Counter Up Style"
+msgstr ""
+
+#: addons/widgets/about-us-counter-box.php:146
+#: addons/widgets/mixlax-counterup.php:205
+msgid "Counter Up Text Color"
+msgstr ""
+
+#: addons/widgets/about-us-counter-box.php:158
+#: addons/widgets/mixlax-counterup.php:217
+msgid "Counter Up Text Typography"
+msgstr ""
+
+#: addons/widgets/about-us-counter-box.php:139
+#: addons/widgets/mixlax-counterup.php:197
+msgid "Counter Up Typography"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-table.php:107
+msgid "Couples Massage"
+msgstr ""
+
+#: addons/widgets/call-to-action.php:300
+msgid "CTA Button"
+msgstr ""
+
+#: addons/widgets/call-to-action.php:322
+msgid "CTA Button Background Color"
+msgstr ""
+
+#: addons/widgets/call-to-action.php:308
+msgid "CTA Button Color"
+msgstr ""
+
+#: addons/widgets/call-to-action.php:343
+msgid "CTA Button Margin"
+msgstr ""
+
+#: addons/widgets/call-to-action.php:355
+msgid "CTA Button Padding"
+msgstr ""
+
+#: addons/widgets/call-to-action.php:335
+msgid "CTA Button Typography"
+msgstr ""
+
+#: addons/widgets/call-to-action.php:246
+msgid "CTA Description"
+msgstr ""
+
+#: addons/widgets/call-to-action.php:254
+msgid "CTA Description Color"
+msgstr ""
+
+#: addons/widgets/call-to-action.php:274
+msgid "CTA Description Margin"
+msgstr ""
+
+#: addons/widgets/call-to-action.php:286
+msgid "CTA Description Padding"
+msgstr ""
+
+#: addons/widgets/call-to-action.php:266
+msgid "CTA Description Typography"
+msgstr ""
+
+#: addons/widgets/call-to-action.php:63 addons/widgets/call-to-action.php:65
+msgid "CTA Short Description"
+msgstr ""
+
+#: addons/widgets/call-to-action.php:54 addons/widgets/call-to-action.php:56
+#: addons/widgets/call-to-action.php:191
+msgid "CTA Subtitle"
+msgstr ""
+
+#: addons/widgets/call-to-action.php:200
+msgid "CTA Subtitle Color"
+msgstr ""
+
+#: addons/widgets/call-to-action.php:220
+msgid "CTA Subtitle Margin"
+msgstr ""
+
+#: addons/widgets/call-to-action.php:232
+msgid "CTA Subtitle Padding"
+msgstr ""
+
+#: addons/widgets/call-to-action.php:212
+msgid "CTA Subtitle Typography"
+msgstr ""
+
+#: addons/widgets/call-to-action.php:36 addons/widgets/call-to-action.php:44
+#: addons/widgets/call-to-action.php:46 addons/widgets/call-to-action.php:137
+msgid "CTA Title"
+msgstr ""
+
+#: addons/widgets/call-to-action.php:145
+msgid "CTA Title Color"
+msgstr ""
+
+#: addons/widgets/call-to-action.php:165
+msgid "CTA Title Margin"
+msgstr ""
+
+#: addons/widgets/call-to-action.php:177
+msgid "CTA Title Padding"
+msgstr ""
+
+#: addons/widgets/call-to-action.php:157
+msgid "CTA Title Typography"
+msgstr ""
+
+#: addons/widgets/mixlax-counterup.php:132
+msgid "Cup Coffee"
+msgstr ""
+
+#: addons/widgets/testimonial-slider.php:94
+msgid "Customer"
+msgstr ""
+
+#: addons/footer-widgets/news-feed.php:103 addons/widgets/blog-post.php:118
+#: addons/widgets/carvis-service.php:181 addons/widgets/mixlax-project.php:98
+#: addons/widgets/project-details-meta.php:78
+msgid "Date"
+msgstr ""
+
+#: addons/widgets/project-details-meta.php:76
+msgid "Date Bottom Text"
+msgstr ""
+
+#: addons/footer-widgets/news-feed.php:197
+msgid "Date Color"
+msgstr ""
+
+#: addons/footer-widgets/news-feed.php:207
+msgid "Date Hover Color"
+msgstr ""
+
+#: addons/widgets/team-single.php:79 addons/widgets/team-single.php:88
+msgid "David Smith"
+msgstr ""
+
+#: addons/widgets/branch-information.php:101
+#: addons/widgets/branch-information.php:214
+msgid "david-smith@gmail.com"
+msgstr ""
+
+#: addons/header/button-icon.php:179 addons/header/button-icon.php:204
+#: addons/header/button-icon.php:225
+msgid "Default"
+msgstr ""
+
+#: addons/widgets/offer-widget.php:59
+msgid "Default Title"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:190 addons/widgets/carvis-service.php:200
+msgid "Default title"
+msgstr ""
+
+#: addons/footer-widgets/news-feed.php:88 addons/widgets/blog-post.php:103
+msgid "DESC"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:166 addons/widgets/mixlax-project.php:83
+msgid "Descending"
+msgstr ""
+
+#: addons/widgets/experience-info.php:143
+#: addons/widgets/experience-info.php:145 addons/widgets/offer-widget.php:65
+#: addons/widgets/price-plan-box.php:45
+msgid "Description"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:448 addons/widgets/carvis-service.php:554
+#: addons/widgets/experience-info.php:459 addons/widgets/mixlax-tab.php:227
+#: addons/widgets/pagination-layout.php:174
+#: addons/widgets/price-plan-box.php:107
+msgid "Description Color"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:564
+msgid "Description Color On Hover"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:1132
+msgid "Description Font Size"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:1211
+msgid "Description Left Spacing"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:1172
+msgid "Description Letter Spacing"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:1152
+msgid "Description Line Height"
+msgstr ""
+
+#: addons/widgets/mixlax-tab.php:247 addons/widgets/pagination-layout.php:194
+msgid "Description Margin"
+msgstr ""
+
+#: addons/widgets/pagination-layout.php:206
+msgid "Description Padding"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:1191
+msgid "Description Top Spacing"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:459 addons/widgets/carvis-service.php:576
+#: addons/widgets/experience-info.php:472 addons/widgets/mixlax-tab.php:239
+msgid "Description Typography"
+msgstr ""
+
+#: inc/mixlaxcore-functions.php:113
+msgid "Description."
+msgstr ""
+
+#: inc/widgets/about-me-widget.php:164
+msgid "Description:"
+msgstr ""
+
+#: addons/widgets/testimonial-slider.php:277
+msgid "Designation"
+msgstr ""
+
+#: addons/widgets/team-single.php:142
+msgid "Designation Color"
+msgstr ""
+
+#: addons/widgets/team-single.php:153
+msgid "Designation Typography"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:103
+msgid "Disable Slider?"
+msgstr ""
+
+#: addons/header/button-icon.php:221
+msgid "Display"
+msgstr ""
+
+#: inc/widgets/download-button.php:80 inc/widgets/download-button.php:92
+msgid "Download Boucher"
+msgstr ""
+
+#: addons/widgets/mixlax-menu.php:79
+msgid "Dropdown"
+msgstr ""
+
+#: inc/mixlaxcore-functions.php:138
+msgid "Edit Category"
+msgstr ""
+
+#: inc/mixlaxcore-functions.php:102
+msgid "Edit Project"
+msgstr ""
+
+#: inc/mixlaxcore-functions.php:171
+msgid "Edit Tag"
+msgstr ""
+
+#: addons/addons.php:153 addons/addons.php:177
+msgid "Elementor"
+msgstr ""
+
+#: addons/footer-widgets/contact-info.php:119 addons/header/header.php:84
+msgid "Email"
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:158
+msgid "Email :"
+msgstr ""
+
+#: addons/widgets/experience-info.php:319
+msgid "Email Action Box Title"
+msgstr ""
+
+#: addons/widgets/experience-info.php:322
+msgid "EMAIL ADDRESS"
+msgstr ""
+
+#: addons/header/header-contact.php:50
+msgid "Email Address"
+msgstr ""
+
+#: addons/footer-widgets/contact-info.php:273
+msgid "Email: "
+msgstr ""
+
+#: addons/widgets/layer-slider.php:65
+msgid "Enable Action Box?"
+msgstr ""
+
+#: addons/widgets/blog-post.php:77
+msgid "Enable Excerpt?"
+msgstr ""
+
+#: addons/widgets/contact-form.php:59
+msgid "Enable Notice Section?"
+msgstr ""
+
+#: addons/header/button-icon.php:207
+msgid "End"
+msgstr ""
+
+#: addons/widgets/team-single.php:70
+msgid "Engineer"
+msgstr ""
+
+#: addons/widgets/mixlax-newsletter.php:46
+msgid "Enter Your Email"
+msgstr ""
+
+#: addons/widgets/testimonial-slider.php:133
+#: addons/widgets/testimonial-slider.php:138
+#: addons/widgets/testimonial-slider.php:143
+msgid "Etiam convallis elementum sapien, a aliquam turpis aliquam vitae."
+msgstr ""
+
+#: addons/widgets/blog-post.php:321
+msgid "Excerpt"
+msgstr ""
+
+#: addons/widgets/blog-post.php:330
+msgid "Excerpt Color"
+msgstr ""
+
+#: addons/widgets/blog-post.php:89
+msgid "Excerpt Length"
+msgstr ""
+
+#: addons/widgets/blog-post.php:350
+msgid "Excerpt Margin"
+msgstr ""
+
+#: addons/widgets/blog-post.php:362
+msgid "Excerpt Padding"
+msgstr ""
+
+#: addons/widgets/blog-post.php:342
+msgid "Excerpt Typography"
+msgstr ""
+
+#: addons/footer-widgets/news-feed.php:113 addons/widgets/blog-post.php:139
+msgid "Exclude Categories"
+msgstr ""
+
+#: addons/footer-widgets/news-feed.php:133 addons/widgets/blog-post.php:159
+msgid "Exclude Post"
+msgstr ""
+
+#: addons/footer-widgets/news-feed.php:123 addons/widgets/blog-post.php:149
+msgid "Exclude Tags"
+msgstr ""
+
+#: addons/widgets/experience-info.php:126
+msgid "Experience"
+msgstr ""
+
+#: addons/widgets/mixlax-service.php:96 addons/widgets/mixlax-service.php:110
+#: addons/widgets/mixlax-service.php:114 addons/widgets/mixlax-service.php:118
+#: addons/widgets/service-slider.php:105 addons/widgets/service-slider.php:119
+#: addons/widgets/service-slider.php:124 addons/widgets/service-slider.php:129
+msgid ""
+"Experience a metamorphosis from tension to tranquility Massage, facials, "
+"salon"
+msgstr ""
+
+#: addons/widgets/experience-info.php:104
+msgid "Experience Box Background"
+msgstr ""
+
+#: addons/widgets/project-slider.php:130
+msgid "Experience Description"
+msgstr ""
+
+#: addons/widgets/project-slider.php:111
+msgid "Experience Number"
+msgstr ""
+
+#: addons/widgets/project-slider.php:121
+msgid "Experience Suffix"
+msgstr ""
+
+#: addons/widgets/feature-slider.php:76 addons/widgets/feature-slider.php:122
+msgid "Face Glowing"
+msgstr ""
+
+#: inc/widgets/share-widget.php:52
+msgid "Facebook"
+msgstr ""
+
+#: addons/widgets/skill-bar.php:92
+msgid "Facewash"
+msgstr ""
+
+#: addons/widgets/mixlax-service.php:117 addons/widgets/service-slider.php:128
+msgid "Facial & Therophy"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-slider.php:119
+#: addons/widgets/mixlax-pricing-tab.php:129
+msgid "Family Plan"
+msgstr ""
+
+#: addons/widgets/mixlax-faq.php:20 addons/widgets/mixlax-faq.php:61
+msgid "FAQ"
+msgstr ""
+
+#: addons/widgets/mixlax-faq.php:53
+msgid "FAQ Answer"
+msgstr ""
+
+#: addons/widgets/mixlax-faq.php:142
+msgid "Faq Answer Color"
+msgstr ""
+
+#: addons/widgets/mixlax-faq.php:154
+msgid "Faq Answer Typography"
+msgstr ""
+
+#: addons/widgets/mixlax-faq.php:91
+msgid "Faq Background"
+msgstr ""
+
+#: addons/widgets/mixlax-faq.php:36
+msgid "Faq Content"
+msgstr ""
+
+#: addons/widgets/mixlax-faq.php:46
+msgid "FAQ Question"
+msgstr ""
+
+#: addons/widgets/mixlax-faq.php:82
+msgid "Faq Style"
+msgstr ""
+
+#: addons/widgets/mixlax-faq.php:122
+msgid "Faq Title Color"
+msgstr ""
+
+#: addons/widgets/mixlax-faq.php:134
+msgid "Faq Title Typography"
+msgstr ""
+
+#: addons/widgets/feature-slider.php:58
+msgid "far fa-check"
+msgstr ""
+
+#: addons/widgets/mixlax-feature.php:20 addons/widgets/mixlax-feature.php:36
+msgid "Feature"
+msgstr ""
+
+#: addons/widgets/feature-slider.php:189
+msgid "Feature Active Background Color"
+msgstr ""
+
+#: addons/widgets/feature-slider.php:200
+msgid "Feature Background Color"
+msgstr ""
+
+#: addons/widgets/feature-slider.php:244
+msgid "Feature Button Background Color"
+msgstr ""
+
+#: addons/widgets/feature-slider.php:233
+msgid "Feature Button Color"
+msgstr ""
+
+#: addons/widgets/feature-slider.php:266
+msgid "Feature Button Hover Background Color"
+msgstr ""
+
+#: addons/widgets/feature-slider.php:255
+msgid "Feature Button Hover Color"
+msgstr ""
+
+#: addons/widgets/feature-slider.php:65 addons/widgets/feature-slider.php:279
+msgid "Feature Category"
+msgstr ""
+
+#: addons/widgets/feature-slider.php:287
+msgid "Feature Category Color"
+msgstr ""
+
+#: addons/widgets/feature-slider.php:307
+msgid "Feature Category Margin"
+msgstr ""
+
+#: addons/widgets/feature-slider.php:319
+msgid "Feature Category Padding"
+msgstr ""
+
+#: addons/widgets/feature-slider.php:299
+msgid "Feature Category Typography"
+msgstr ""
+
+#: addons/widgets/feature-slider.php:83 addons/widgets/feature-slider.php:387
+#: addons/widgets/mixlax-feature-image.php:62
+#: addons/widgets/mixlax-feature.php:113 addons/widgets/mixlax-feature.php:169
+#: addons/widgets/mixlax-feature.php:337
+msgid "Feature Description"
+msgstr ""
+
+#: addons/widgets/feature-slider.php:395
+#: addons/widgets/mixlax-feature-image.php:171
+#: addons/widgets/mixlax-feature.php:345
+msgid "Feature Description Color"
+msgstr ""
+
+#: addons/widgets/feature-slider.php:415
+#: addons/widgets/mixlax-feature-image.php:191
+#: addons/widgets/mixlax-feature.php:365
+msgid "Feature Description Margin"
+msgstr ""
+
+#: addons/widgets/feature-slider.php:427
+#: addons/widgets/mixlax-feature-image.php:203
+#: addons/widgets/mixlax-feature.php:377
+msgid "Feature Description Padding"
+msgstr ""
+
+#: addons/widgets/feature-slider.php:407
+#: addons/widgets/mixlax-feature-image.php:183
+#: addons/widgets/mixlax-feature.php:357
+msgid "Feature Description Typography"
+msgstr ""
+
+#: addons/widgets/feature-slider.php:56
+msgid "Feature Icon"
+msgstr ""
+
+#: addons/widgets/mixlax-feature.php:225
+msgid "Feature Icon Background Color"
+msgstr ""
+
+#: addons/widgets/mixlax-feature.php:214
+msgid "Feature Icon Color"
+msgstr ""
+
+#: addons/widgets/mixlax-feature-image.php:19
+#: addons/widgets/mixlax-feature-image.php:36
+msgid "Feature Image"
+msgstr ""
+
+#: addons/widgets/feature-slider.php:46
+msgid "Feature Image."
+msgstr ""
+
+#: addons/widgets/mixlax-feature.php:123
+msgid "Feature Left"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-slider.php:77
+#: addons/widgets/mixlax-pricing-tab.php:87
+msgid "Feature List"
+msgstr ""
+
+#: addons/widgets/mixlax-feature.php:179
+msgid "Feature Right"
+msgstr ""
+
+#: addons/widgets/mixlax-feature.php:58
+msgid "Feature Separate Image"
+msgstr ""
+
+#: addons/widgets/feature-slider.php:20 addons/widgets/feature-slider.php:36
+msgid "Feature Slider"
+msgstr ""
+
+#: addons/widgets/mixlax-feature.php:44
+msgid "Feature Style"
+msgstr ""
+
+#: addons/widgets/feature-slider.php:74 addons/widgets/feature-slider.php:333
+#: addons/widgets/mixlax-feature-image.php:53
+#: addons/widgets/mixlax-feature.php:104 addons/widgets/mixlax-feature.php:160
+#: addons/widgets/mixlax-feature.php:283
+msgid "Feature Title"
+msgstr ""
+
+#: addons/widgets/feature-slider.php:341
+#: addons/widgets/mixlax-feature-image.php:127
+#: addons/widgets/mixlax-feature.php:291
+msgid "Feature Title Color"
+msgstr ""
+
+#: addons/widgets/feature-slider.php:361
+#: addons/widgets/mixlax-feature-image.php:147
+#: addons/widgets/mixlax-feature.php:311
+msgid "Feature Title Margin"
+msgstr ""
+
+#: addons/widgets/feature-slider.php:373
+#: addons/widgets/mixlax-feature-image.php:159
+#: addons/widgets/mixlax-feature.php:323
+msgid "Feature Title Padding"
+msgstr ""
+
+#: addons/widgets/mixlax-feature-image.php:87
+#: addons/widgets/mixlax-feature-image.php:119
+msgid "Feature Title Style"
+msgstr ""
+
+#: addons/widgets/feature-slider.php:353
+#: addons/widgets/mixlax-feature-image.php:139
+#: addons/widgets/mixlax-feature.php:303
+msgid "Feature Title Typography"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:1257
+msgid "First Button"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:150
+msgid "First Button Text"
+msgstr ""
+
+#: inc/widgets/download-button.php:110
+msgid "First Button Text:"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:159
+msgid "First Button Url"
+msgstr ""
+
+#: inc/widgets/download-button.php:114
+msgid "First Button Url:"
+msgstr ""
+
+#: addons/widgets/image-compare.php:41
+msgid "First Image"
+msgstr ""
+
+#: addons/widgets/contact-slider.php:108 addons/widgets/contact-slider.php:112
+#: addons/widgets/contact-slider.php:116 addons/widgets/contact-slider.php:120
+msgid "flaticon-contact"
+msgstr ""
+
+#: addons/widgets/separator.php:58
+msgid "flaticon-taxi-1"
+msgstr ""
+
+#: addons/header/menu-shortocde.php:221
+msgid "Flyout Menu"
+msgstr ""
+
+#: addons/header/button-icon.php:109
+msgid "Font Size"
+msgstr ""
+
+#: addons/footer-widgets/footer-copyright.php:20
+msgid "Footer Copyright"
+msgstr ""
+
+#: addons/widgets/mixlax-price-estimator.php:123
+msgid "Form Input"
+msgstr ""
+
+#: addons/widgets/contact-form.php:99
+#: addons/widgets/mixlax-price-estimator.php:59
+msgid "Form Shortcode"
+msgstr ""
+
+#: addons/widgets/contact-form.php:45
+msgid "Form Style"
+msgstr ""
+
+#: addons/widgets/mixlax-price-estimator.php:69
+msgid "Form Title"
+msgstr ""
+
+#: addons/widgets/mixlax-founder.php:19 addons/widgets/team-member.php:130
+msgid "Founder"
+msgstr ""
+
+#: addons/widgets/mixlax-founder.php:45
+msgid "Founder Image"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:123
+msgid "Four Column"
+msgstr ""
+
+#: addons/widgets/mixlax-faq.php:70
+msgid "From its medieval origins to the digital"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:120
+msgid "Full Width"
+msgstr ""
+
+#: addons/widgets/mixlax-gallery.php:22 addons/widgets/mixlax-gallery.php:38
+#: addons/widgets/mixlax-gallery.php:99
+msgid "Gallery"
+msgstr ""
+
+#: addons/widgets/mixlax-gallery.php:62 addons/widgets/mixlax-gallery.php:123
+msgid "Gallery Image"
+msgstr ""
+
+#: addons/widgets/mixlax-gallery.php:46 addons/widgets/mixlax-gallery.php:168
+msgid "Gallery Style"
+msgstr ""
+
+#: addons/header/header.php:251 addons/widgets/blog-post.php:201
+#: addons/widgets/carvis-service.php:291 addons/widgets/contact-form.php:109
+#: addons/widgets/contact-slider.php:163 addons/widgets/experience-info.php:364
+#: addons/widgets/feature-slider.php:181 addons/widgets/how-it-works.php:146
+#: addons/widgets/layer-slider.php:375 addons/widgets/mixlax-feature.php:206
+#: addons/widgets/mixlax-pricing-slider.php:162
+#: addons/widgets/mixlax-pricing-tab.php:142
+#: addons/widgets/mixlax-pricing-table.php:120
+#: addons/widgets/mixlax-service.php:130
+#: addons/widgets/project-details-meta.php:132
+#: addons/widgets/project-slider.php:257 addons/widgets/service-slider.php:172
+#: addons/widgets/team-member.php:285 addons/widgets/team-single.php:134
+#: addons/widgets/testimonial-slider.php:156
+msgid "General"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:174
+msgid "Get A Service"
+msgstr ""
+
+#: addons/widgets/contact-slider.php:85
+msgid "Get Directions"
+msgstr ""
+
+#: addons/widgets/branch-information.php:352
+#: addons/widgets/branch-information.php:458
+msgid "Get In Touch"
+msgstr ""
+
+#: addons/widgets/experience-info.php:340
+msgid "GET MORE INFO"
+msgstr ""
+
+#: addons/widgets/price-plan-box.php:55
+msgid "Get Services"
+msgstr ""
+
+#: addons/widgets/feature-slider.php:132
+msgid "Gift Packages"
+msgstr ""
+
+#: addons/footer-widgets/quick-link.php:68
+#: addons/header/header-vertical-menu.php:59 addons/header/header.php:189
+#: addons/header/header.php:212 addons/widgets/mixlax-menu.php:64
+#, php-format
+msgid ""
+"Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to create one."
+msgstr ""
+
+#: addons/footer-widgets/quick-link.php:60
+#: addons/header/header-vertical-menu.php:51 addons/header/header.php:181
+#: addons/header/header.php:203 addons/widgets/mixlax-menu.php:56
+#, php-format
+msgid ""
+"Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to manage your "
+"menus."
+msgstr ""
+
+#: addons/widgets/google-map.php:17
+msgid "Google Map"
+msgstr ""
+
+#: addons/widgets/team-member.php:66
+msgid "Grid"
+msgstr ""
+
+#: addons/widgets/skill-bar.php:95
+msgid "Hair Cut"
+msgstr ""
+
+#: addons/widgets/pagination-layout.php:86
+msgid "Hair Style & Color"
+msgstr ""
+
+#: addons/widgets/mixlax-feature-image.php:55
+msgid "Hair Treatment"
+msgstr ""
+
+#: addons/widgets/project-slider.php:132
+msgid "Happy Clients"
+msgstr ""
+
+#: addons/footer-widgets/inquiry-number.php:45
+#: inc/widgets/inquiry-widget.php:86 inc/widgets/social-widget.php:61
+msgid "Have Inquiry? Just Call"
+msgstr ""
+
+#: addons/header/header.php:23 addons/header/header.php:39
+msgid "Header"
+msgstr ""
+
+#: addons/header/header-contact.php:19 addons/header/header-contact.php:38
+msgid "Header Contact"
+msgstr ""
+
+#: addons/footer-widgets/footer-copyright.php:214
+#: addons/header/button-icon.php:145 addons/header/menu-shortocde.php:191
+msgid "Height"
+msgstr ""
+
+#: inc/widgets/about-me-widget.php:168
+msgid "Here"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:1630
+msgid "Hero Shape"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:20 addons/widgets/layer-slider.php:44
+msgid "Hero Slider"
+msgstr ""
+
+#: addons/header/header.php:64 addons/header/header.php:226
+#: addons/header/header.php:239 addons/widgets/blog-post.php:80
+#: addons/widgets/carvis-service.php:231 addons/widgets/carvis-service.php:302
+#: addons/widgets/contact-form.php:62
+#: addons/widgets/project-details-meta.php:45
+#: addons/widgets/project-details-meta.php:67
+#: addons/widgets/project-details-meta.php:89
+#: addons/widgets/project-details-meta.php:111
+msgid "Hide"
+msgstr ""
+
+#: addons/widgets/mixlax-menu.php:78
+msgid "Horizontal"
+msgstr ""
+
+#: addons/header/button-icon.php:200
+msgid "Horizontal Align"
+msgstr ""
+
+#: inc/widgets/demo-widget.php:74 inc/widgets/demo-widget.php:150
+msgid "Hot"
+msgstr ""
+
+#: addons/widgets/mixlax-service.php:113 addons/widgets/service-slider.php:123
+msgid "Hot Stone Massage"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://vecurosoft.com/"
+msgstr ""
+
+#: addons/widgets/project-details-meta.php:122
+msgid "https://www.youtube.com/embed/tgbNymZ7vqY"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:206
+msgid "https://www.youtube.com/watch?v=_sI_Ps7JSEk"
+msgstr ""
+
+#: addons/footer-widgets/contact-info.php:149
+#: addons/footer-widgets/footer-copyright.php:85
+#: addons/header/button-icon.php:47 addons/header/header.php:119
+#: addons/header/header.php:161 addons/widgets/about-us-counter-box.php:75
+#: addons/widgets/about-us-image.php:117 addons/widgets/button.php:66
+#: addons/widgets/call-to-action.php:97 addons/widgets/client-logo.php:58
+#: addons/widgets/experience-info.php:91 addons/widgets/experience-info.php:247
+#: addons/widgets/experience-info.php:349 addons/widgets/feature-slider.php:104
+#: addons/widgets/how-it-works.php:107 addons/widgets/image.php:88
+#: addons/widgets/image.php:116 addons/widgets/instagram-slider.php:59
+#: addons/widgets/layer-slider.php:161 addons/widgets/layer-slider.php:183
+#: addons/widgets/mixlax-founder.php:73
+#: addons/widgets/mixlax-pricing-slider.php:97
+#: addons/widgets/mixlax-pricing-tab.php:107
+#: addons/widgets/mixlax-pricing-table.php:85
+#: addons/widgets/mixlax-service.php:82 addons/widgets/offer-widget.php:75
+#: addons/widgets/pagination-layout.php:62
+#: addons/widgets/pagination-layout.php:95 addons/widgets/price-plan-box.php:63
+#: addons/widgets/project-slider.php:88 addons/widgets/service-slider.php:92
+#: addons/widgets/team-member.php:116 addons/widgets/team-member.php:150
+#: addons/widgets/team-member.php:175 addons/widgets/team-member.php:200
+#: addons/widgets/team-member.php:225 addons/widgets/team-single.php:111
+msgid "https://your-link.com"
+msgstr ""
+
+#: addons/footer-widgets/newsletter-widget.php:88
+#: addons/header/button-icon.php:60 addons/header/header-contact.php:62
+#: addons/header/header-contact.php:72
+msgid "Icon"
+msgstr ""
+
+#: addons/widgets/how-it-works.php:81
+msgid "Icon ( Works On Version 2 And 3 )"
+msgstr ""
+
+#: addons/header/button-icon.php:251 addons/widgets/mixlax-faq.php:111
+#: addons/widgets/mixlax-separator.php:86
+msgid "Icon Background Color"
+msgstr ""
+
+#: addons/header/button-icon.php:287
+msgid "Icon Border"
+msgstr ""
+
+#: addons/header/button-icon.php:18 addons/header/button-icon.php:37
+msgid "Icon Button"
+msgstr ""
+
+#: addons/widgets/separator.php:56
+msgid "Icon Class"
+msgstr ""
+
+#: addons/header/button-icon.php:239 addons/widgets/contact-slider.php:193
+#: addons/widgets/mixlax-counterup.php:173 addons/widgets/mixlax-faq.php:100
+#: addons/widgets/mixlax-separator.php:75 addons/widgets/separator.php:95
+msgid "Icon Color"
+msgstr ""
+
+#: addons/widgets/mixlax-video.php:170
+msgid "Icon Font Size"
+msgstr ""
+
+#: addons/widgets/mixlax-video.php:126
+msgid "Icon Height"
+msgstr ""
+
+#: addons/widgets/mixlax-video.php:148
+msgid "Icon Line Height"
+msgstr ""
+
+#: addons/header/button-icon.php:262
+msgid "Icon Margin"
+msgstr ""
+
+#: addons/header/button-icon.php:274
+msgid "Icon Padding"
+msgstr ""
+
+#: addons/header/button-icon.php:101
+msgid "Icon Style"
+msgstr ""
+
+#: addons/widgets/mixlax-video.php:104
+msgid "Icon Width"
+msgstr ""
+
+#: addons/footer-widgets/news-feed.php:100 addons/widgets/blog-post.php:115
+msgid "ID"
+msgstr ""
+
+#: addons/widgets/image.php:21 addons/widgets/image.php:40
+#: addons/widgets/instagram-slider.php:46
+msgid "Image"
+msgstr ""
+
+#: addons/widgets/how-it-works.php:88
+msgid "Image ( Works On Version 4 Only )"
+msgstr ""
+
+#: addons/widgets/image.php:127
+msgid "Image Class"
+msgstr ""
+
+#: addons/widgets/image-compare.php:17 addons/widgets/image-compare.php:33
+msgid "Image Compare"
+msgstr ""
+
+#: addons/footer-widgets/about-widget.php:85
+#: addons/footer-widgets/inquiry-number.php:143
+msgid "Image Margin"
+msgstr ""
+
+#: addons/footer-widgets/about-widget.php:97
+#: addons/footer-widgets/inquiry-number.php:155
+msgid "Image Padding"
+msgstr ""
+
+#: addons/widgets/animation-image.php:60
+msgid "Image Position"
+msgstr ""
+
+#: addons/footer-widgets/about-widget.php:78
+#: addons/footer-widgets/inquiry-number.php:136 addons/widgets/image.php:138
+msgid "Image Style"
+msgstr ""
+
+#: inc/widgets/about-us-widget.php:118 inc/widgets/demo-widget.php:142
+msgid "Image URL:"
+msgstr ""
+
+#: addons/widgets/instagram-slider.php:72
+msgid "Images"
+msgstr ""
+
+#: addons/footer-widgets/contact-info.php:121
+msgid "info@carvis.com"
+msgstr ""
+
+#: addons/widgets/experience-info.php:331
+msgid "info@mixlax.com"
+msgstr ""
+
+#: addons/header/header-contact.php:106
+msgid "Infos"
+msgstr ""
+
+#: addons/header/button-icon.php:226
+msgid "Inline Block"
+msgstr ""
+
+#: addons/header/button-icon.php:227
+msgid "Inline Flex"
+msgstr ""
+
+#: addons/footer-widgets/inquiry-number.php:17
+#: addons/footer-widgets/inquiry-number.php:36
+msgid "Inquiry Number"
+msgstr ""
+
+#: addons/footer-widgets/inquiry-number.php:43
+msgid "Inquiry Title"
+msgstr ""
+
+#: addons/widgets/instagram-slider.php:20
+#: addons/widgets/instagram-slider.php:36
+msgid "Instagram Slider"
+msgstr ""
+
+#: addons/header/header-contact.php:96
+msgid "Item"
+msgstr ""
+
+#: addons/header/menu-shortocde.php:464 addons/header/menu-shortocde.php:550
+msgid "Item Background Color"
+msgstr ""
+
+#: addons/header/menu-shortocde.php:442 addons/header/menu-shortocde.php:528
+msgid "Item Color"
+msgstr ""
+
+#: addons/header/menu-shortocde.php:475 addons/header/menu-shortocde.php:561
+msgid "Item Hover Background Color"
+msgstr ""
+
+#: addons/header/menu-shortocde.php:453 addons/header/menu-shortocde.php:539
+msgid "Item Hover Color"
+msgstr ""
+
+#: addons/header/menu-shortocde.php:507 addons/header/menu-shortocde.php:593
+msgid "Item Margin"
+msgstr ""
+
+#: addons/header/menu-shortocde.php:495 addons/header/menu-shortocde.php:581
+msgid "Item Padding"
+msgstr ""
+
+#: addons/header/menu-shortocde.php:487 addons/header/menu-shortocde.php:573
+msgid "Item Typography"
+msgstr ""
+
+#: addons/widgets/mixlax-counterup.php:136
+msgid "Item Uses"
+msgstr ""
+
+#: addons/widgets/client-logo.php:108 addons/widgets/contact-slider.php:141
+#: addons/widgets/mixlax-gallery.php:146
+#: addons/widgets/mixlax-pricing-slider.php:140
+msgid "Items To Show"
+msgstr ""
+
+#: addons/widgets/branch-information.php:85
+#: addons/widgets/branch-information.php:196
+msgid "Jerray Jact"
+msgstr ""
+
+#: addons/widgets/team-member.php:107
+msgid "John Steven"
+msgstr ""
+
+#: addons/widgets/project-slider.php:123
+msgid "K"
+msgstr ""
+
+#: addons/widgets/mixlax-counterup.php:102
+msgid "k"
+msgstr ""
+
+#: addons/widgets/google-map.php:44
+msgid "Latitude"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:1006
+msgid "Learn More"
+msgstr ""
+
+#: addons/header/button-icon.php:76 addons/header/header-contact.php:128
+#: addons/header/logo.php:105 addons/header/menu-shortocde.php:68
+#: addons/widgets/button.php:104 addons/widgets/call-to-action.php:115
+#: addons/widgets/image.php:66 addons/widgets/mixlax-menu.php:131
+#: addons/widgets/mixlax-menu.php:161 addons/widgets/mixlax-tab.php:87
+#: addons/widgets/section-title.php:111
+msgid "Left"
+msgstr ""
+
+#: addons/widgets/animation-image.php:77
+msgid "Left And Right"
+msgstr ""
+
+#: addons/widgets/mixlax-feature.php:95
+msgid "Left Image"
+msgstr ""
+
+#: addons/widgets/animation-image.php:86
+msgid "Left Position"
+msgstr ""
+
+#: addons/footer-widgets/contact-info.php:147 addons/header/button-icon.php:45
+#: addons/header/header.php:117 addons/widgets/about-us-counter-box.php:73
+#: addons/widgets/about-us-image.php:115 addons/widgets/button.php:64
+#: addons/widgets/call-to-action.php:95 addons/widgets/client-logo.php:56
+#: addons/widgets/experience-info.php:89 addons/widgets/experience-info.php:245
+#: addons/widgets/how-it-works.php:105 addons/widgets/image.php:86
+#: addons/widgets/instagram-slider.php:57
+#: addons/widgets/mixlax-pricing-slider.php:95
+#: addons/widgets/mixlax-pricing-tab.php:105
+#: addons/widgets/mixlax-pricing-table.php:83
+#: addons/widgets/mixlax-service.php:80 addons/widgets/offer-widget.php:73
+#: addons/widgets/price-plan-box.php:61 addons/widgets/project-slider.php:86
+#: addons/widgets/service-slider.php:90
+msgid "Link"
+msgstr ""
+
+#: inc/widgets/share-widget.php:55
+msgid "Linkedin"
+msgstr ""
+
+#: addons/widgets/list-style.php:19 addons/widgets/list-style.php:48
+msgid "List"
+msgstr ""
+
+#: addons/widgets/experience-info.php:217
+msgid "List #1"
+msgstr ""
+
+#: addons/widgets/experience-info.php:220
+msgid "List #2"
+msgstr ""
+
+#: addons/widgets/experience-info.php:212
+msgid "List Item"
+msgstr ""
+
+#: addons/widgets/experience-info.php:204
+msgid "List Point"
+msgstr ""
+
+#: addons/widgets/list-style.php:38
+msgid "List Style"
+msgstr ""
+
+#: addons/widgets/mixlax-project.php:107
+msgid "Load More"
+msgstr ""
+
+#: addons/widgets/mixlax-project.php:105
+msgid "Load More Button Text"
+msgstr ""
+
+#: addons/header/header.php:93
+msgid "Location"
+msgstr ""
+
+#: addons/footer-widgets/footer-copyright.php:47 addons/header/logo.php:19
+#: addons/header/logo.php:38 addons/header/logo.php:46
+msgid "Logo"
+msgstr ""
+
+#: addons/header/logo.php:101
+msgid "Logo Alignment"
+msgstr ""
+
+#: addons/footer-widgets/footer-copyright.php:54 addons/header/header.php:159
+msgid "Logo Link"
+msgstr ""
+
+#: addons/header/logo.php:201
+msgid "Logo Margin"
+msgstr ""
+
+#: addons/header/logo.php:213
+msgid "Logo Padding"
+msgstr ""
+
+#: addons/header/logo.php:131
+msgid "Logo Style"
+msgstr ""
+
+#: addons/widgets/google-map.php:53
+msgid "longitude"
+msgstr ""
+
+#: addons/widgets/post-details-slider.php:108
+#: addons/widgets/project-slider.php:243
+msgid "Loop"
+msgstr ""
+
+#: addons/widgets/mixlax-feature-image.php:64
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod "
+"tempor."
+msgstr ""
+
+#: addons/widgets/testimonial-slider.php:110
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, "
+"quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo "
+"consequat."
+msgstr ""
+
+#: addons/widgets/mixlax-faq.php:66
+msgid "Lorem ipsum is placeholder text commonly"
+msgstr ""
+
+#: inc/widgets/adver-widget.php:60
+msgid "LOWEST"
+msgstr ""
+
+#: addons/widgets/branch-information.php:365
+#: addons/widgets/branch-information.php:473
+msgid "mail Us"
+msgstr ""
+
+#: addons/widgets/experience-info.php:124
+msgid "Main Title"
+msgstr ""
+
+#: addons/widgets/experience-info.php:416
+msgid "Main Title Color"
+msgstr ""
+
+#: addons/widgets/experience-info.php:429
+msgid "Main Title Typography"
+msgstr ""
+
+#: addons/widgets/how-it-works.php:132
+msgid "Make An Appointment"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-slider.php:87
+#: addons/widgets/mixlax-pricing-tab.php:97
+msgid "Make Appointment"
+msgstr ""
+
+#: addons/widgets/branch-information.php:93
+#: addons/widgets/branch-information.php:205
+msgid "Manager"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:420 addons/widgets/carvis-service.php:466
+#: addons/widgets/carvis-service.php:526 addons/widgets/carvis-service.php:583
+#: addons/widgets/contact-form.php:221
+#: addons/widgets/mixlax-price-estimator.php:131
+#: addons/widgets/mixlax-video.php:220
+msgid "Margin"
+msgstr ""
+
+#: addons/widgets/google-map.php:82
+msgid "Marker"
+msgstr ""
+
+#: addons/widgets/mixlax-feature.php:106 addons/widgets/mixlax-feature.php:128
+#: addons/widgets/mixlax-feature.php:162 addons/widgets/mixlax-feature.php:184
+msgid "Matt Effects"
+msgstr ""
+
+#: addons/widgets/image.php:181
+msgid "Max Width"
+msgstr ""
+
+#: addons/header/menu-shortocde.php:390
+msgid "Mega Menu"
+msgstr ""
+
+#: addons/widgets/mixlax-menu.php:42
+msgid "Menu"
+msgstr ""
+
+#: addons/header/menu-shortocde.php:64
+msgid "Menu Alignment"
+msgstr ""
+
+#: addons/header/header-vertical-menu.php:154 addons/header/header.php:278
+#: addons/header/header.php:407 addons/header/menu-shortocde.php:112
+#: addons/widgets/mixlax-menu.php:192 addons/widgets/mixlax-menu.php:313
+msgid "Menu Background Color"
+msgstr ""
+
+#: addons/header/header.php:376 addons/header/header.php:475
+#: addons/widgets/mixlax-menu.php:282 addons/widgets/mixlax-menu.php:381
+msgid "Menu Border Radius"
+msgstr ""
+
+#: addons/header/header-vertical-menu.php:88
+msgid "Menu Button Background Color"
+msgstr ""
+
+#: addons/header/header-vertical-menu.php:99
+#: addons/header/header-vertical-menu.php:165
+msgid "Menu Button Color"
+msgstr ""
+
+#: addons/header/header-vertical-menu.php:120
+msgid "Menu Button Margin"
+msgstr ""
+
+#: addons/header/header-vertical-menu.php:132
+msgid "Menu Button Padding"
+msgstr ""
+
+#: addons/header/header-vertical-menu.php:80
+msgid "Menu Button Style"
+msgstr ""
+
+#: addons/header/header-vertical-menu.php:69
+msgid "Menu Button Text"
+msgstr ""
+
+#: addons/header/header-vertical-menu.php:112
+msgid "Menu Button Typography"
+msgstr ""
+
+#: addons/header/header.php:298 addons/header/header.php:417
+#: addons/header/menu-shortocde.php:90 addons/widgets/mixlax-menu.php:213
+#: addons/widgets/mixlax-menu.php:323
+msgid "Menu Color"
+msgstr ""
+
+#: addons/header/menu-shortocde.php:146
+msgid "Menu Current Item Background Color"
+msgstr ""
+
+#: addons/header/menu-shortocde.php:134
+msgid "Menu Current Item Color"
+msgstr ""
+
+#: addons/header/menu-shortocde.php:123
+msgid "Menu Hover Background Color"
+msgstr ""
+
+#: addons/header/header-vertical-menu.php:176
+#: addons/header/menu-shortocde.php:101
+msgid "Menu Hover Color"
+msgstr ""
+
+#: addons/header/header.php:400 addons/widgets/mixlax-menu.php:306
+msgid "Menu Hover Style"
+msgstr ""
+
+#: addons/header/menu-shortocde.php:303
+msgid "Menu Item Background Color"
+msgstr ""
+
+#: addons/header/menu-shortocde.php:292
+msgid "Menu Item Color"
+msgstr ""
+
+#: addons/header/menu-shortocde.php:369
+msgid "Menu Item Height"
+msgstr ""
+
+#: addons/header/menu-shortocde.php:325
+msgid "Menu Item Hover Background Color"
+msgstr ""
+
+#: addons/header/menu-shortocde.php:314
+msgid "Menu Item Hover Color"
+msgstr ""
+
+#: addons/header/menu-shortocde.php:345
+msgid "Menu Item Margin"
+msgstr ""
+
+#: addons/header/menu-shortocde.php:357
+msgid "Menu Item Padding"
+msgstr ""
+
+#: addons/header/menu-shortocde.php:337
+msgid "Menu Item Typography"
+msgstr ""
+
+#: addons/header/header-vertical-menu.php:205 addons/header/header.php:344
+#: addons/header/header.php:443 addons/header/menu-shortocde.php:167
+#: addons/widgets/mixlax-menu.php:250 addons/widgets/mixlax-menu.php:349
+msgid "Menu Margin"
+msgstr ""
+
+#: addons/header/header-vertical-menu.php:217 addons/header/header.php:356
+#: addons/header/header.php:455 addons/header/menu-shortocde.php:179
+#: addons/widgets/mixlax-menu.php:262 addons/widgets/mixlax-menu.php:361
+msgid "Menu Padding"
+msgstr ""
+
+#: addons/header/menu-shortocde.php:18 addons/header/menu-shortocde.php:37
+msgid "Menu Shortcode"
+msgstr ""
+
+#: addons/header/header-vertical-menu.php:146 addons/header/header.php:271
+#: addons/widgets/mixlax-menu.php:185
+msgid "Menu Style"
+msgstr ""
+
+#: addons/header/header-vertical-menu.php:197 addons/header/header.php:337
+#: addons/header/header.php:436 addons/header/menu-shortocde.php:159
+#: addons/widgets/mixlax-menu.php:243 addons/widgets/mixlax-menu.php:342
+msgid "Menu Typography"
+msgstr ""
+
+#: addons/widgets/blog-post.php:376
+msgid "Meta"
+msgstr ""
+
+#: addons/widgets/blog-post.php:384
+msgid "Meta Color"
+msgstr ""
+
+#: addons/widgets/blog-post.php:395
+msgid "Meta Hover Color"
+msgstr ""
+
+#: addons/widgets/blog-post.php:406
+msgid "Meta Icon Color"
+msgstr ""
+
+#: addons/widgets/project-details-meta.php:161
+msgid "Meta Title Color"
+msgstr ""
+
+#: addons/widgets/project-details-meta.php:179
+msgid "Meta Title Margin"
+msgstr ""
+
+#: addons/widgets/project-details-meta.php:190
+msgid "Meta Title Padding"
+msgstr ""
+
+#: addons/widgets/project-details-meta.php:172
+msgid "Meta Title Typography"
+msgstr ""
+
+#: addons/widgets/blog-post.php:418
+msgid "Meta Typography"
+msgstr ""
+
+#: addons/header/button-icon.php:181
+msgid "Middle"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/widgets/about-me-widget.php:24
+msgid "Mixlax :: About Me"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/widgets/about-us-widget.php:24
+msgid "Mixlax :: About Us Widget"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/widgets/adver-widget.php:24
+msgid "Mixlax :: Advertise Image"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/widgets/contact-info-widget.php:21
+msgid "Mixlax :: Contact Info"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/widgets/demo-widget.php:24
+msgid "Mixlax :: Demo Widget"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/widgets/download-button.php:24
+msgid "Mixlax :: Download Button"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/widgets/gallery-widget.php:24
+msgid "Mixlax :: Gallery"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/widgets/google-map.php:21
+msgid "Mixlax :: Google Map"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/widgets/inquiry-widget.php:21
+msgid "mixlax :: Inquiry Number"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/widgets/newsletter-widget.php:21
+msgid "Mixlax :: Newsletter"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/widgets/product-category-filter.php:24
+msgid "Mixlax :: Product Categories Filter"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/widgets/product-tag-filter.php:24
+msgid "Mixlax :: Product Tags Filter"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/widgets/recent-post-widget.php:24
+msgid "Mixlax :: Recent Posts"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/widgets/social-widget.php:21
+msgid "mixlax :: Social Icon"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/widgets/share-widget.php:21
+msgid "Mixlax :: Social Share Page"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:98 addons/widgets/layer-slider.php:218
+#: addons/widgets/layer-slider.php:223 addons/widgets/layer-slider.php:228
+msgid "MIXLAX AUTO CAR SERVICES"
+msgstr ""
+
+#: addons/addons.php:152 addons/addons.php:176 addons/addons.php:201
+msgid "Mixlax Core"
+msgstr ""
+
+#: addons/widgets/mixlax-menu.php:20
+msgid "Mixlax Menu"
+msgstr ""
+
+#: addons/footer-widgets/border.php:18 addons/footer-widgets/border.php:36
+#: addons/widgets/mixlax-separator.php:20
+#: addons/widgets/mixlax-separator.php:36
+msgid "Mixlax Separator"
+msgstr ""
+
+#: addons/widgets/mixlax-separator.php:57
+msgid "Mixlax Separator Style"
+msgstr ""
+
+#: addons/widgets/mixlax-tab.php:19 addons/widgets/mixlax-tab.php:35
+#: addons/widgets/mixlax-tab.php:63
+msgid "Mixlax Tab"
+msgstr ""
+
+#: addons/widgets/mixlax-tab.php:109
+msgid "Mixlax Tab Style"
+msgstr ""
+
+#: addons/header/header.php:86
+msgid "mixlax@email.com"
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:150 inc/widgets/inquiry-widget.php:120
+#: inc/widgets/inquiry-widget.php:128 inc/widgets/inquiry-widget.php:136
+msgid "Mobile :"
+msgstr ""
+
+#: addons/footer-widgets/contact-info.php:73
+#: addons/footer-widgets/contact-info.php:92
+msgid "Mon - Fri:"
+msgstr ""
+
+#: addons/widgets/experience-info.php:286
+msgid "Monday to Saturday"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:152
+msgid "More Deatails"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:180 addons/widgets/mixlax-project.php:97
+msgid "Name"
+msgstr ""
+
+#: addons/widgets/mixlax-feature.php:136 addons/widgets/mixlax-feature.php:192
+msgid "Natural Mask"
+msgstr ""
+
+#: addons/widgets/post-details-slider.php:96
+#: addons/widgets/post-details-slider.php:122
+#: addons/widgets/project-slider.php:231 addons/widgets/project-slider.php:396
+msgid "Navigation"
+msgstr ""
+
+#: addons/widgets/post-details-slider.php:150
+#: addons/widgets/project-slider.php:424
+msgid "Navigation Background Color"
+msgstr ""
+
+#: addons/widgets/post-details-slider.php:160
+#: addons/widgets/project-slider.php:434
+msgid "Navigation Background Hover Color"
+msgstr ""
+
+#: addons/widgets/post-details-slider.php:130
+#: addons/widgets/project-slider.php:404
+msgid "Navigation Icon Color"
+msgstr ""
+
+#: addons/widgets/post-details-slider.php:140
+#: addons/widgets/project-slider.php:414
+msgid "Navigation Icon Color On Hover"
+msgstr ""
+
+#: inc/widgets/share-widget.php:69
+msgid "Never Miss News"
+msgstr ""
+
+#: inc/widgets/demo-widget.php:68 inc/widgets/demo-widget.php:149
+msgid "New"
+msgstr ""
+
+#: inc/mixlaxcore-functions.php:141
+msgid "New Category Name"
+msgstr ""
+
+#: inc/mixlaxcore-functions.php:101
+msgid "New Project"
+msgstr ""
+
+#: inc/mixlaxcore-functions.php:174
+msgid "New Tag Name"
+msgstr ""
+
+#: addons/widgets/contact-slider.php:68 addons/widgets/contact-slider.php:109
+#: addons/widgets/contact-slider.php:113 addons/widgets/contact-slider.php:117
+#: addons/widgets/contact-slider.php:121
+msgid "New York"
+msgstr ""
+
+#: addons/footer-widgets/news-feed.php:17
+#: addons/footer-widgets/news-feed.php:36
+#: addons/footer-widgets/news-feed.php:59
+msgid "News Feed"
+msgstr ""
+
+#: addons/footer-widgets/news-feed.php:43
+msgid "News Feed Style"
+msgstr ""
+
+#: addons/footer-widgets/newsletter-widget.php:18
+#: addons/widgets/mixlax-newsletter.php:20
+#: addons/widgets/mixlax-newsletter.php:36
+msgid "Newsletter"
+msgstr ""
+
+#: addons/footer-widgets/newsletter-widget.php:338
+msgid "Newsletter Button Border Color"
+msgstr ""
+
+#: addons/footer-widgets/newsletter-widget.php:288
+msgid "Newsletter Button Color"
+msgstr ""
+
+#: addons/widgets/mixlax-newsletter.php:52
+msgid "Newsletter Button Text"
+msgstr ""
+
+#: addons/footer-widgets/newsletter-widget.php:309
+msgid "Newsletter Button Typography"
+msgstr ""
+
+#: addons/footer-widgets/newsletter-widget.php:268
+msgid "Newsletter Color"
+msgstr ""
+
+#: addons/footer-widgets/newsletter-widget.php:72
+#: addons/footer-widgets/newsletter-widget.php:74
+msgid "Newsletter Description"
+msgstr ""
+
+#: addons/footer-widgets/newsletter-widget.php:220
+msgid "Newsletter Description Color"
+msgstr ""
+
+#: addons/footer-widgets/newsletter-widget.php:238
+msgid "Newsletter Description Margin"
+msgstr ""
+
+#: addons/footer-widgets/newsletter-widget.php:212
+msgid "Newsletter Description Options"
+msgstr ""
+
+#: addons/footer-widgets/newsletter-widget.php:249
+msgid "Newsletter Description Padding"
+msgstr ""
+
+#: addons/footer-widgets/newsletter-widget.php:231
+msgid "Newsletter Description Typography"
+msgstr ""
+
+#: addons/footer-widgets/newsletter-widget.php:298
+msgid "Newsletter Icon Color"
+msgstr ""
+
+#: addons/footer-widgets/newsletter-widget.php:37
+msgid "Newsletter Options"
+msgstr ""
+
+#: addons/footer-widgets/newsletter-widget.php:260
+msgid "Newsletter Other Options"
+msgstr ""
+
+#: addons/footer-widgets/newsletter-widget.php:278
+msgid "Newsletter Placeholder Color"
+msgstr ""
+
+#: addons/footer-widgets/newsletter-widget.php:80
+#: addons/footer-widgets/newsletter-widget.php:82
+#: addons/widgets/mixlax-newsletter.php:44
+msgid "Newsletter Placeholder Text"
+msgstr ""
+
+#: addons/footer-widgets/newsletter-widget.php:44
+#: addons/footer-widgets/newsletter-widget.php:109
+#: addons/widgets/mixlax-newsletter.php:63
+msgid "Newsletter Style"
+msgstr ""
+
+#: addons/footer-widgets/newsletter-widget.php:99
+#: addons/footer-widgets/newsletter-widget.php:101
+msgid "Newsletter Submit Button Text"
+msgstr ""
+
+#: addons/footer-widgets/newsletter-widget.php:64
+#: addons/footer-widgets/newsletter-widget.php:66
+msgid "Newsletter Subtitle"
+msgstr ""
+
+#: addons/footer-widgets/newsletter-widget.php:172
+msgid "Newsletter Subtitle Color"
+msgstr ""
+
+#: addons/footer-widgets/newsletter-widget.php:190
+msgid "Newsletter Subtitle Margin"
+msgstr ""
+
+#: addons/footer-widgets/newsletter-widget.php:164
+msgid "Newsletter Subtitle Options"
+msgstr ""
+
+#: addons/footer-widgets/newsletter-widget.php:201
+msgid "Newsletter Subtitle Padding"
+msgstr ""
+
+#: addons/footer-widgets/newsletter-widget.php:183
+msgid "Newsletter Subtitle Typography"
+msgstr ""
+
+#: addons/footer-widgets/newsletter-widget.php:56
+#: addons/footer-widgets/newsletter-widget.php:58
+msgid "Newsletter Title"
+msgstr ""
+
+#: addons/footer-widgets/newsletter-widget.php:124
+msgid "Newsletter Title Color"
+msgstr ""
+
+#: addons/footer-widgets/newsletter-widget.php:142
+msgid "Newsletter Title Margin"
+msgstr ""
+
+#: addons/footer-widgets/newsletter-widget.php:116
+msgid "Newsletter Title Options"
+msgstr ""
+
+#: addons/footer-widgets/newsletter-widget.php:153
+msgid "Newsletter Title Padding"
+msgstr ""
+
+#: addons/footer-widgets/newsletter-widget.php:135
+msgid "Newsletter Title Typography"
+msgstr ""
+
+#: addons/widgets/pagination-layout.php:84
+msgid "Next Description Text"
+msgstr ""
+
+#: addons/widgets/pagination-layout.php:93
+msgid "Next Link"
+msgstr ""
+
+#: addons/widgets/pagination-layout.php:77
+#: addons/widgets/project-next-prev.php:156
+msgid "Next Project"
+msgstr ""
+
+#: addons/widgets/pagination-layout.php:75
+msgid "Next Title"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:106 addons/widgets/carvis-service.php:242
+#: addons/widgets/client-logo.php:131
+#: addons/widgets/contact-form-slider.php:110 addons/widgets/image.php:105
+#: addons/widgets/instagram-slider.php:111 addons/widgets/layer-slider.php:68
+#: addons/widgets/layer-slider.php:107 addons/widgets/layer-slider.php:197
+#: addons/widgets/layer-slider.php:253 addons/widgets/layer-slider.php:265
+#: addons/widgets/layer-slider.php:279 addons/widgets/layer-slider.php:291
+#: addons/widgets/layer-slider.php:303 addons/widgets/layer-slider.php:406
+#: addons/widgets/layer-slider.php:498
+#: addons/widgets/post-details-slider.php:87
+#: addons/widgets/post-details-slider.php:99
+#: addons/widgets/post-details-slider.php:111
+#: addons/widgets/project-slider.php:222 addons/widgets/project-slider.php:234
+#: addons/widgets/project-slider.php:246
+#: addons/widgets/service-details-slider.php:87
+msgid "No"
+msgstr ""
+
+#: inc/mixlaxcore-functions.php:145
+msgid "No Categorys found."
+msgstr ""
+
+#: addons/footer-widgets/news-feed.php:66 addons/widgets/blog-post.php:59
+msgid "No of Post to show"
+msgstr ""
+
+#: inc/mixlaxcore-functions.php:108
+msgid "No Projects found in Trash."
+msgstr ""
+
+#: inc/mixlaxcore-functions.php:107
+msgid "No Projects found."
+msgstr ""
+
+#: inc/mixlaxcore-functions.php:178
+msgid "No Tags found."
+msgstr ""
+
+#: addons/widgets/carvis-service.php:177 addons/widgets/mixlax-project.php:94
+msgid "None"
+msgstr ""
+
+#: addons/widgets/mixlax-menu.php:116
+msgid "Normal Style"
+msgstr ""
+
+#: addons/widgets/contact-form.php:71
+msgid "Notice Title"
+msgstr ""
+
+#: addons/footer-widgets/inquiry-number.php:58
+#: addons/footer-widgets/inquiry-number.php:66
+#: addons/footer-widgets/inquiry-number.php:74
+msgid "Number"
+msgstr ""
+
+#: addons/footer-widgets/inquiry-number.php:176
+msgid "Number Color"
+msgstr ""
+
+#: addons/footer-widgets/inquiry-number.php:186
+msgid "Number Color On Hover"
+msgstr ""
+
+#: addons/footer-widgets/inquiry-number.php:204
+msgid "Number Margin"
+msgstr ""
+
+#: inc/widgets/recent-post-widget.php:140
+msgid "Number of Posts to show:"
+msgstr ""
+
+#: addons/footer-widgets/inquiry-number.php:216
+msgid "Number Padding"
+msgstr ""
+
+#: addons/footer-widgets/inquiry-number.php:169
+msgid "Number Style"
+msgstr ""
+
+#: addons/footer-widgets/inquiry-number.php:197
+msgid "Number Typography"
+msgstr ""
+
+#: addons/widgets/offer-widget.php:18 addons/widgets/offer-widget.php:36
+msgid "Offer"
+msgstr ""
+
+#: addons/widgets/offer-widget.php:67
+msgid "Offer Description"
+msgstr ""
+
+#: addons/widgets/offer-widget.php:44
+msgid "Offer Image"
+msgstr ""
+
+#: addons/widgets/feature-slider.php:137
+msgid "Offers & Deals"
+msgstr ""
+
+#: addons/footer-widgets/contact-info.php:87
+msgid "Office Hour"
+msgstr ""
+
+#: addons/footer-widgets/contact-info.php:71
+msgid "Office Open Day"
+msgstr ""
+
+#: addons/footer-widgets/contact-info.php:79
+msgid "Office Open Hour"
+msgstr ""
+
+#: addons/widgets/testimonial-slider.php:64
+msgid "One"
+msgstr ""
+
+#: addons/widgets/mixlax-menu.php:103
+msgid "One Column"
+msgstr ""
+
+#: addons/widgets/mixlax-menu.php:117
+msgid "One Page Nav Style"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:155 addons/widgets/mixlax-project.php:72
+msgid "Only Number Work. Like 4 or 6"
+msgstr ""
+
+#: addons/footer-widgets/news-feed.php:84 addons/widgets/blog-post.php:99
+#: addons/widgets/carvis-service.php:161 addons/widgets/mixlax-project.php:78
+msgid "Order"
+msgstr ""
+
+#: addons/footer-widgets/news-feed.php:97 addons/widgets/blog-post.php:112
+#: addons/widgets/carvis-service.php:173 addons/widgets/mixlax-project.php:90
+msgid "Order By"
+msgstr ""
+
+#: addons/widgets/mixlax-feature.php:74
+msgid "Our Specality"
+msgstr ""
+
+#: addons/widgets/instagram-slider.php:130
+msgid "Overlay Color"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:431 addons/widgets/carvis-service.php:477
+#: addons/widgets/carvis-service.php:537 addons/widgets/carvis-service.php:594
+#: addons/widgets/contact-form.php:233
+#: addons/widgets/mixlax-price-estimator.php:144
+#: addons/widgets/mixlax-video.php:231
+msgid "Padding"
+msgstr ""
+
+#: addons/widgets/pagination-layout.php:34
+msgid "Pagination"
+msgstr ""
+
+#: addons/widgets/pagination-layout.php:18
+msgid "Pagination Layout"
+msgstr ""
+
+#: addons/header/menu-shortocde.php:398
+msgid "Panel Background"
+msgstr ""
+
+#: addons/header/menu-shortocde.php:409
+msgid "Panel Padding"
+msgstr ""
+
+#: inc/mixlaxcore-functions.php:106
+msgid "Parent Projects:"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:276
+msgid "Pause On Hover?"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-slider.php:69
+#: addons/widgets/mixlax-pricing-slider.php:116
+#: addons/widgets/mixlax-pricing-slider.php:120
+#: addons/widgets/mixlax-pricing-tab.php:79
+#: addons/widgets/mixlax-pricing-tab.php:126
+#: addons/widgets/mixlax-pricing-tab.php:130
+msgid "Per Month"
+msgstr ""
+
+#: addons/widgets/team-member.php:128 addons/widgets/team-single.php:68
+msgid "Person Designation"
+msgstr ""
+
+#: addons/widgets/team-member.php:435
+msgid "Person Designation Color"
+msgstr ""
+
+#: addons/widgets/team-member.php:453
+msgid "Person Designation Margin"
+msgstr ""
+
+#: addons/widgets/team-member.php:464
+msgid "Person Designation Padding"
+msgstr ""
+
+#: addons/widgets/team-member.php:446
+msgid "Person Designation Typography"
+msgstr ""
+
+#: addons/widgets/team-single.php:86
+msgid "Person Details"
+msgstr ""
+
+#: addons/widgets/team-member.php:114
+msgid "Person Details Url"
+msgstr ""
+
+#: addons/widgets/team-single.php:178
+msgid "Person Meta Title Color"
+msgstr ""
+
+#: addons/widgets/team-single.php:189
+msgid "Person Meta Title Typography"
+msgstr ""
+
+#: addons/widgets/team-member.php:105 addons/widgets/team-single.php:77
+msgid "Person Name"
+msgstr ""
+
+#: addons/widgets/team-member.php:384 addons/widgets/team-single.php:160
+msgid "Person Name Color"
+msgstr ""
+
+#: addons/widgets/team-member.php:394
+msgid "Person Name Hover Color"
+msgstr ""
+
+#: addons/widgets/team-member.php:412
+msgid "Person Name Margin"
+msgstr ""
+
+#: addons/widgets/team-member.php:423
+msgid "Person Name Padding"
+msgstr ""
+
+#: addons/widgets/team-member.php:405 addons/widgets/team-single.php:171
+msgid "Person Name Typography"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-slider.php:59
+#: addons/widgets/mixlax-pricing-tab.php:69
+#: addons/widgets/mixlax-pricing-table.php:65
+#: addons/widgets/mixlax-pricing-table.php:103
+msgid "Personalized Massage"
+msgstr ""
+
+#: addons/widgets/experience-info.php:301
+msgid "Phone Action Box Title"
+msgstr ""
+
+#: addons/header/header.php:516
+msgid "Phone Color"
+msgstr ""
+
+#: addons/header/header.php:526
+msgid "Phone Hover Color"
+msgstr ""
+
+#: addons/widgets/experience-info.php:304
+msgid "PHONE NUMBER"
+msgstr ""
+
+#: addons/footer-widgets/about-widget.php:67
+#: addons/footer-widgets/contact-info.php:111
+#: addons/header/header-contact.php:49 addons/header/header.php:75
+msgid "Phone Number"
+msgstr ""
+
+#: addons/footer-widgets/contact-info.php:270
+msgid "Phone: "
+msgstr ""
+
+#: addons/addons.php:202
+msgid "PHP"
+msgstr ""
+
+#: inc/widgets/share-widget.php:54
+msgid "Pinterest"
+msgstr ""
+
+#: inc/widgets/newsletter-widget.php:83
+msgid "Placeholder:"
+msgstr ""
+
+#: addons/widgets/price-plan-box.php:20 addons/widgets/price-plan-box.php:38
+msgid "Plan Box"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-table.php:148
+msgid "Plan Box Border Radius"
+msgstr ""
+
+#: addons/widgets/price-plan-box.php:47
+msgid "Plan Box Description"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-table.php:73
+msgid "Plan Description"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-table.php:215
+msgid "Plan Description Color"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-table.php:237
+msgid "Plan Description Inner Background Color"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-table.php:226
+msgid "Plan Description Inner Color"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-table.php:257
+msgid "Plan Description Margin"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-table.php:269
+msgid "Plan Description Padding"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-table.php:249
+msgid "Plan Description Typography"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-slider.php:67
+#: addons/widgets/mixlax-pricing-tab.php:77
+msgid "Plan Duration"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-slider.php:259
+#: addons/widgets/mixlax-pricing-tab.php:303
+msgid "Plan Duration Color"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-slider.php:271
+#: addons/widgets/mixlax-pricing-tab.php:315
+msgid "Plan Duration Typography"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-slider.php:279
+#: addons/widgets/mixlax-pricing-tab.php:323
+msgid "Plan Feature Color"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-slider.php:299
+#: addons/widgets/mixlax-pricing-tab.php:343
+msgid "Plan Feature Margin"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-slider.php:311
+#: addons/widgets/mixlax-pricing-tab.php:355
+msgid "Plan Feature Padding"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-slider.php:291
+#: addons/widgets/mixlax-pricing-tab.php:335
+msgid "Plan Feature Typography"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-slider.php:215
+#: addons/widgets/mixlax-pricing-tab.php:259
+#: addons/widgets/mixlax-pricing-table.php:170
+msgid "Plan Name Color"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-slider.php:235
+#: addons/widgets/mixlax-pricing-tab.php:279
+#: addons/widgets/mixlax-pricing-table.php:190
+msgid "Plan Name Margin"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-slider.php:247
+#: addons/widgets/mixlax-pricing-tab.php:291
+#: addons/widgets/mixlax-pricing-table.php:202
+msgid "Plan Name Padding"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-slider.php:227
+#: addons/widgets/mixlax-pricing-tab.php:271
+#: addons/widgets/mixlax-pricing-table.php:182
+msgid "Plan Name Typography"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-slider.php:204
+#: addons/widgets/mixlax-pricing-tab.php:248
+msgid "Plan Price Color"
+msgstr ""
+
+#: addons/widgets/experience-info.php:202
+msgid "Point"
+msgstr ""
+
+#: inc/mixlaxcore-functions.php:134
+msgid "Popular Categorys"
+msgstr ""
+
+#: inc/mixlaxcore-functions.php:167
+msgid "Popular Tags"
+msgstr ""
+
+#: addons/widgets/animation-image.php:64
+msgid "Position One"
+msgstr ""
+
+#: addons/widgets/animation-image.php:65
+msgid "Position Two"
+msgstr ""
+
+#: addons/widgets/post-details-slider.php:18
+#: addons/widgets/post-details-slider.php:34
+msgid "Post Details Slider"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:132 addons/widgets/carvis-service.php:144
+#: addons/widgets/mixlax-project.php:49 addons/widgets/mixlax-project.php:61
+msgid "Post From"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:153 addons/widgets/mixlax-project.php:70
+msgid "Post Limit"
+msgstr ""
+
+#: addons/footer-widgets/news-feed.php:169
+#: addons/widgets/project-next-prev.php:108
+msgid "Post Title Color"
+msgstr ""
+
+#: addons/footer-widgets/news-feed.php:179
+msgid "Post Title Hover Color"
+msgstr ""
+
+#: addons/footer-widgets/news-feed.php:190
+#: addons/footer-widgets/news-feed.php:218
+#: addons/widgets/project-next-prev.php:120
+msgid "Post Title Typography"
+msgstr ""
+
+#: addons/widgets/pagination-layout.php:51
+msgid "Prev Description Text"
+msgstr ""
+
+#: addons/widgets/pagination-layout.php:60
+msgid "Prev Link"
+msgstr ""
+
+#: addons/widgets/pagination-layout.php:44
+#: addons/widgets/project-next-prev.php:144
+msgid "Prev Project"
+msgstr ""
+
+#: addons/widgets/pagination-layout.php:42
+msgid "Prev Title"
+msgstr ""
+
+#: inc/widgets/adver-widget.php:61
+msgid "PRICE"
+msgstr ""
+
+#: addons/widgets/mixlax-feature-image.php:106
+msgid "Price Box Background Color"
+msgstr ""
+
+#: addons/widgets/mixlax-feature-image.php:44
+msgid "Price Box Text"
+msgstr ""
+
+#: addons/widgets/mixlax-feature-image.php:95
+msgid "Price Box Text Color"
+msgstr ""
+
+#: addons/widgets/mixlax-price-estimator.php:18
+msgid "Price Estimator"
+msgstr ""
+
+#: addons/widgets/mixlax-price-estimator.php:37
+msgid "Price Estimator Form"
+msgstr ""
+
+#: addons/widgets/mixlax-price-estimator.php:45
+msgid "Price Estimator Style"
+msgstr ""
+
+#: inc/widgets/adver-widget.php:127
+msgid "Price:"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-slider.php:170
+#: addons/widgets/mixlax-pricing-tab.php:150
+#: addons/widgets/mixlax-pricing-table.php:128
+msgid "Pricing Box Background Color"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-slider.php:181
+#: addons/widgets/mixlax-pricing-tab.php:161
+msgid "Pricing Box Background Color Hover"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-slider.php:57
+#: addons/widgets/mixlax-pricing-tab.php:67
+#: addons/widgets/mixlax-pricing-table.php:63
+msgid "Pricing Plan Name"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-slider.php:47
+#: addons/widgets/mixlax-pricing-tab.php:57
+msgid "Pricing Plan Price"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-tab.php:47
+msgid "Pricing Plan Tab Text"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-slider.php:20
+#: addons/widgets/mixlax-pricing-slider.php:37
+#: addons/widgets/mixlax-pricing-slider.php:110
+msgid "Pricing Slider"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-slider.php:196
+msgid "Pricing Slider Style"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-tab.php:20
+#: addons/widgets/mixlax-pricing-tab.php:37
+#: addons/widgets/mixlax-pricing-tab.php:120
+msgid "Pricing Tab"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-tab.php:240
+msgid "Pricing Tab Style"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-table.php:22
+#: addons/widgets/mixlax-pricing-table.php:39
+#: addons/widgets/mixlax-pricing-table.php:98
+msgid "Pricing Table"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-table.php:162
+msgid "Pricing Table Style"
+msgstr ""
+
+#: addons/widgets/mixlax-project.php:42
+msgid "Project Content"
+msgstr ""
+
+#: addons/widgets/project-details-meta.php:34
+msgid "Project Details Meta"
+msgstr ""
+
+#: addons/widgets/project-next-prev.php:17
+#: addons/widgets/project-next-prev.php:33
+msgid "Project Navigation"
+msgstr ""
+
+#: addons/widgets/project-slider.php:20 addons/widgets/project-slider.php:40
+msgid "Project Slider"
+msgstr ""
+
+#: addons/widgets/project-tag-share.php:17
+#: addons/widgets/project-tag-share.php:33
+msgid "Project Tag And Share"
+msgstr ""
+
+#: addons/widgets/mixlax-project.php:22 addons/widgets/project-slider.php:153
+msgid "Projects"
+msgstr ""
+
+#: addons/widgets/project-details-meta.php:18
+msgid "Projects Details Meta"
+msgstr ""
+
+#: addons/footer-widgets/quick-link.php:18
+#: addons/footer-widgets/quick-link.php:37
+#: addons/footer-widgets/quick-link.php:47
+msgid "Quick Link"
+msgstr ""
+
+#: addons/footer-widgets/quick-link.php:88
+msgid "Quick Link Color"
+msgstr ""
+
+#: addons/footer-widgets/quick-link.php:108
+msgid "Quick Link Margin"
+msgstr ""
+
+#: addons/footer-widgets/quick-link.php:120
+msgid "Quick Link Padding"
+msgstr ""
+
+#: addons/footer-widgets/quick-link.php:80
+msgid "Quick Link Style"
+msgstr ""
+
+#: addons/footer-widgets/quick-link.php:45
+msgid "Quick Link Title"
+msgstr ""
+
+#: addons/footer-widgets/quick-link.php:100
+msgid "Quick Link Typography"
+msgstr ""
+
+#: addons/widgets/testimonial-slider.php:188
+msgid "Quote Icon Bottom Shape Background Color"
+msgstr ""
+
+#: addons/widgets/testimonial-slider.php:165
+msgid "Quote Icon Color"
+msgstr ""
+
+#: addons/widgets/testimonial-slider.php:176
+msgid "Quote Icon Round Shape Background Color"
+msgstr ""
+
+#: addons/footer-widgets/news-feed.php:104 addons/widgets/blog-post.php:119
+msgid "Random"
+msgstr ""
+
+#: addons/widgets/blog-post.php:130 addons/widgets/carvis-service.php:949
+msgid "Read More"
+msgstr ""
+
+#: addons/widgets/project-tag-share.php:42
+msgid "Related Tags & Share Post:"
+msgstr ""
+
+#: addons/widgets/mixlax-tab.php:47 addons/widgets/mixlax-tab.php:68
+msgid "Relax"
+msgstr ""
+
+#: addons/widgets/pagination-layout.php:53
+msgid "Relaxation & Body Massage"
+msgstr ""
+
+#: addons/footer-widgets/footer-copyright.php:97
+msgid "Repeater List"
+msgstr ""
+
+#: addons/header/button-icon.php:84 addons/header/header-contact.php:136
+#: addons/header/logo.php:113 addons/header/menu-shortocde.php:76
+#: addons/widgets/button.php:112 addons/widgets/call-to-action.php:123
+#: addons/widgets/image.php:74 addons/widgets/mixlax-menu.php:139
+#: addons/widgets/mixlax-menu.php:169 addons/widgets/mixlax-tab.php:95
+#: addons/widgets/section-title.php:119
+msgid "Right"
+msgstr ""
+
+#: addons/widgets/mixlax-feature.php:150
+msgid "Right Image"
+msgstr ""
+
+#: addons/widgets/testimonial-slider.php:86
+#: addons/widgets/testimonial-slider.php:132
+#: addons/widgets/testimonial-slider.php:137
+#: addons/widgets/testimonial-slider.php:142
+msgid "Rosalina D. William"
+msgstr ""
+
+#: addons/widgets/separator.php:85
+msgid "Round Background Color"
+msgstr ""
+
+#: addons/widgets/offer-widget.php:116
+msgid "Round Shape Background Color"
+msgstr ""
+
+#: addons/footer-widgets/contact-info.php:96
+msgid "Saturday:"
+msgstr ""
+
+#: addons/widgets/mixlax-feature.php:132 addons/widgets/mixlax-feature.php:188
+msgid "Sauna Ready"
+msgstr ""
+
+#: inc/mixlaxcore-functions.php:133
+msgid "Search Categorys"
+msgstr ""
+
+#: inc/mixlaxcore-functions.php:105
+msgid "Search Projects"
+msgstr ""
+
+#: inc/mixlaxcore-functions.php:166
+msgid "Search Tags"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:1388
+msgid "Second Button"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:172
+msgid "Second Button Text"
+msgstr ""
+
+#: inc/widgets/download-button.php:118
+msgid "Second Button Text:"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:181
+msgid "Second Button Url"
+msgstr ""
+
+#: inc/widgets/download-button.php:122
+msgid "Second Button Url:"
+msgstr ""
+
+#: addons/widgets/image-compare.php:54
+msgid "Second Image"
+msgstr ""
+
+#: addons/header/menu-shortocde.php:433
+msgid "Second Level Menu Items"
+msgstr ""
+
+#: addons/widgets/experience-info.php:371
+msgid "Section Bg Shape"
+msgstr ""
+
+#: addons/widgets/experience-info.php:36
+msgid "Section Content"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:208 addons/widgets/carvis-service.php:210
+#: addons/widgets/contact-form.php:89 addons/widgets/contact-form.php:195
+#: addons/widgets/mixlax-feature.php:82 addons/widgets/section-title.php:98
+#: addons/widgets/section-title.php:100
+msgid "Section Description"
+msgstr ""
+
+#: addons/widgets/section-title.php:278
+msgid "Section Description Color"
+msgstr ""
+
+#: addons/widgets/section-title.php:304
+msgid "Section Description Margin"
+msgstr ""
+
+#: addons/widgets/section-title.php:293
+msgid "Section Description Typography"
+msgstr ""
+
+#: addons/widgets/how-it-works.php:254
+msgid "Section Style"
+msgstr ""
+
+#: addons/widgets/contact-form-slider.php:50
+msgid "Section Sub Title"
+msgstr ""
+
+#: addons/widgets/project-slider.php:69 addons/widgets/section-title.php:70
+#: addons/widgets/section-title.php:72
+msgid "Section Subtitle"
+msgstr ""
+
+#: addons/widgets/section-title.php:235
+msgid "Section Subtitle Color"
+msgstr ""
+
+#: addons/widgets/section-title.php:261
+msgid "Section Subtitle Margin"
+msgstr ""
+
+#: addons/widgets/section-title.php:250
+msgid "Section Subtitle Typography"
+msgstr ""
+
+#: addons/footer-widgets/news-feed.php:57 addons/widgets/carvis-service.php:188
+#: addons/widgets/contact-form-slider.php:42
+#: addons/widgets/contact-form.php:140 addons/widgets/experience-info.php:57
+#: addons/widgets/mixlax-feature.php:72 addons/widgets/project-slider.php:61
+#: addons/widgets/section-title.php:18 addons/widgets/section-title.php:35
+#: addons/widgets/section-title.php:43 addons/widgets/section-title.php:45
+msgid "Section Title"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:198
+msgid "Section Title Background Text"
+msgstr ""
+
+#: addons/widgets/experience-info.php:395 addons/widgets/mixlax-feature.php:236
+#: addons/widgets/mixlax-feature.php:258 addons/widgets/section-title.php:166
+msgid "Section Title Color"
+msgstr ""
+
+#: addons/widgets/section-title.php:192
+msgid "Section Title Margin"
+msgstr ""
+
+#: addons/widgets/section-title.php:207
+msgid "Section Title Padding"
+msgstr ""
+
+#: addons/widgets/section-title.php:133
+msgid "Section Title Style"
+msgstr ""
+
+#: addons/widgets/experience-info.php:408 addons/widgets/mixlax-feature.php:249
+#: addons/widgets/mixlax-feature.php:271 addons/widgets/section-title.php:181
+msgid "Section Title Typography"
+msgstr ""
+
+#: addons/widgets/section-title.php:141
+msgid "Section Wrapper Margin"
+msgstr ""
+
+#: addons/widgets/section-title.php:153
+msgid "Section Wrapper Padding"
+msgstr ""
+
+#: inc/widgets/demo-widget.php:148
+msgid "Select a badge"
+msgstr ""
+
+#: inc/mixlaxcore-functions.php:199
+msgid "Select a category"
+msgstr ""
+
+#: addons/footer-widgets/quick-link.php:137
+#: addons/header/header-vertical-menu.php:233 addons/header/header.php:563
+#: addons/widgets/mixlax-menu.php:406
+msgid "Select A Menu"
+msgstr ""
+
+#: addons/footer-widgets/quick-link.php:57
+#: addons/header/header-vertical-menu.php:48
+msgid "Select Menu"
+msgstr ""
+
+#: addons/widgets/mixlax-menu.php:74
+msgid "Select Menu Style"
+msgstr ""
+
+#: addons/header/header.php:178 addons/header/header.php:200
+#: addons/widgets/mixlax-menu.php:53
+msgid "Select Mixlax Menu"
+msgstr ""
+
+#: addons/widgets/mixlax-menu.php:113
+msgid "Select Style"
+msgstr ""
+
+#: addons/widgets/mixlax-menu.php:87
+msgid "Select Vertical Style"
+msgstr ""
+
+#: addons/widgets/how-it-works.php:135
+msgid "Select Your Services"
+msgstr ""
+
+#: inc/mixlaxcore-functions.php:142
+msgid "Separate Categorys with commas"
+msgstr ""
+
+#: inc/mixlaxcore-functions.php:175
+msgid "Separate Tags with commas"
+msgstr ""
+
+#: addons/widgets/separator.php:16 addons/widgets/separator.php:35
+msgid "Separator"
+msgstr ""
+
+#: addons/widgets/separator.php:64 addons/widgets/separator.php:75
+msgid "Separator Background Color"
+msgstr ""
+
+#: addons/widgets/mixlax-separator.php:44
+msgid "Separator Image"
+msgstr ""
+
+#: addons/widgets/separator.php:43 addons/widgets/testimonial-slider.php:60
+msgid "Separator Style"
+msgstr ""
+
+#: addons/widgets/mixlax-service.php:20 addons/widgets/mixlax-service.php:36
+msgid "Service"
+msgstr ""
+
+#: addons/widgets/service-slider.php:192
+msgid "Service Active Background Color"
+msgstr ""
+
+#: addons/widgets/service-slider.php:204
+msgid "Service Background Color"
+msgstr ""
+
+#: addons/widgets/service-slider.php:228
+msgid "Service Border Color"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:373
+msgid "Service Border Radius"
+msgstr ""
+
+#: addons/widgets/mixlax-service.php:150
+msgid "Service Box Background Color"
+msgstr ""
+
+#: addons/widgets/mixlax-service.php:162
+msgid "Service Box Background Hover Color"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:116
+msgid "Service Column"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:79
+msgid "Service Content"
+msgstr ""
+
+#: addons/widgets/mixlax-service.php:94 addons/widgets/mixlax-service.php:290
+#: addons/widgets/service-slider.php:103 addons/widgets/service-slider.php:308
+msgid "Service Description"
+msgstr ""
+
+#: addons/widgets/mixlax-service.php:298 addons/widgets/service-slider.php:316
+msgid "Service Description Color"
+msgstr ""
+
+#: addons/widgets/mixlax-service.php:210
+msgid "Service Description Color On Hover"
+msgstr ""
+
+#: addons/widgets/mixlax-service.php:318 addons/widgets/service-slider.php:336
+msgid "Service Description Margin"
+msgstr ""
+
+#: addons/widgets/mixlax-service.php:330 addons/widgets/service-slider.php:348
+msgid "Service Description Padding"
+msgstr ""
+
+#: addons/widgets/mixlax-service.php:310 addons/widgets/service-slider.php:328
+msgid "Service Description Typography"
+msgstr ""
+
+#: addons/widgets/service-details-slider.php:18
+#: addons/widgets/service-details-slider.php:34
+msgid "Service Details Slider"
+msgstr ""
+
+#: addons/widgets/mixlax-service.php:138 addons/widgets/service-slider.php:180
+msgid "Service Icon Background Color"
+msgstr ""
+
+#: addons/widgets/mixlax-service.php:175 addons/widgets/service-slider.php:216
+msgid "Service Icon Color"
+msgstr ""
+
+#: addons/widgets/mixlax-service.php:186
+msgid "Service Icon Color On Hover"
+msgstr ""
+
+#: addons/widgets/mixlax-service.php:60 addons/widgets/service-slider.php:60
+msgid "Service Image"
+msgstr ""
+
+#: addons/widgets/service-slider.php:71
+msgid "Service Image. ( Works On Style two )"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:351
+msgid "Service Margin"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:362
+msgid "Service Padding"
+msgstr ""
+
+#: addons/widgets/service-slider.php:20 addons/widgets/service-slider.php:36
+msgid "Service Slider"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:86 addons/widgets/carvis-service.php:491
+#: addons/widgets/mixlax-service.php:44 addons/widgets/service-slider.php:44
+msgid "Service Style"
+msgstr ""
+
+#: addons/widgets/mixlax-service.php:70 addons/widgets/mixlax-service.php:225
+#: addons/widgets/service-slider.php:81 addons/widgets/service-slider.php:243
+msgid "Service Title"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:498 addons/widgets/mixlax-service.php:233
+#: addons/widgets/service-slider.php:251
+msgid "Service Title Color"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:508 addons/widgets/mixlax-service.php:198
+msgid "Service Title Color On Hover"
+msgstr ""
+
+#: addons/widgets/mixlax-service.php:244 addons/widgets/service-slider.php:262
+msgid "Service Title Hover Color"
+msgstr ""
+
+#: addons/widgets/mixlax-service.php:264 addons/widgets/service-slider.php:282
+msgid "Service Title Margin"
+msgstr ""
+
+#: addons/widgets/mixlax-service.php:276 addons/widgets/service-slider.php:294
+msgid "Service Title Padding"
+msgstr ""
+
+#: addons/widgets/mixlax-service.php:256 addons/widgets/service-slider.php:274
+msgid "Service Title Typography"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:42 inc/widgets/adver-widget.php:56
+msgid "Services"
+msgstr ""
+
+#: addons/footer-widgets/about-widget.php:61
+msgid "Services Hotline"
+msgstr ""
+
+#: addons/widgets/contact-slider.php:83
+msgid "Set Button Text"
+msgstr ""
+
+#: addons/widgets/contact-slider.php:92
+msgid "Set Button Url"
+msgstr ""
+
+#: addons/widgets/contact-slider.php:75
+msgid "Set Contact Info"
+msgstr ""
+
+#: addons/widgets/experience-info.php:310
+#: addons/widgets/experience-info.php:328
+msgid "Set Phone Number"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:124
+msgid "Set Slider Description"
+msgstr ""
+
+#: addons/widgets/experience-info.php:292
+msgid "Set Time"
+msgstr ""
+
+#: addons/widgets/contact-slider.php:66
+msgid "Set Title"
+msgstr ""
+
+#: addons/widgets/mixlax-video.php:59
+msgid "Set Video Background Image"
+msgstr ""
+
+#: addons/widgets/price-plan-box.php:94
+msgid "Shape Image"
+msgstr ""
+
+#: addons/header/menu-shortocde.php:45
+msgid "Shortcode"
+msgstr ""
+
+#: addons/header/header.php:63 addons/header/header.php:225
+#: addons/header/header.php:238 addons/widgets/blog-post.php:79
+#: addons/widgets/carvis-service.php:230 addons/widgets/carvis-service.php:301
+#: addons/widgets/contact-form.php:61
+#: addons/widgets/project-details-meta.php:44
+#: addons/widgets/project-details-meta.php:66
+#: addons/widgets/project-details-meta.php:88
+#: addons/widgets/project-details-meta.php:110
+msgid "Show"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:228
+msgid "Show Arrows?"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:299
+msgid "Show Back To Top?"
+msgstr ""
+
+#: addons/widgets/project-details-meta.php:86
+msgid "Show Category?"
+msgstr ""
+
+#: addons/widgets/project-details-meta.php:64
+msgid "Show Date?"
+msgstr ""
+
+#: addons/header/header.php:236
+msgid "Show Offcanvas Icon?"
+msgstr ""
+
+#: addons/header/header.php:223
+msgid "Show Search Icon?"
+msgstr ""
+
+#: addons/widgets/project-details-meta.php:42
+msgid "Show Title?"
+msgstr ""
+
+#: addons/header/header.php:61
+msgid "Show Top Bar?"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:194
+#: addons/widgets/project-details-meta.php:108
+msgid "Show Video Button?"
+msgstr ""
+
+#: addons/widgets/experience-info.php:168
+msgid "Signature Image"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:124
+msgid "Six Column"
+msgstr ""
+
+#: addons/widgets/skill-bar.php:19 addons/widgets/skill-bar.php:35
+#: addons/widgets/skill-bar.php:87
+msgid "Skill Bar"
+msgstr ""
+
+#: addons/widgets/skill-bar.php:43
+msgid "Skill Bar Column"
+msgstr ""
+
+#: addons/widgets/skill-bar.php:115
+msgid "Skill Bar Margin"
+msgstr ""
+
+#: addons/widgets/skill-bar.php:60
+msgid "Skill Bar Text"
+msgstr ""
+
+#: addons/widgets/skill-bar.php:68
+msgid "Skill Bar Width"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:269
+msgid "Slide To Scroll?"
+msgstr ""
+
+#: addons/widgets/blog-post.php:179
+#: addons/widgets/service-details-slider.php:96
+#: addons/widgets/team-member.php:264
+msgid "Slide To Show"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:250
+msgid "Slide To Show?"
+msgstr ""
+
+#: addons/widgets/team-member.php:65
+msgid "Slider"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:239
+msgid "Slider Autoplay?"
+msgstr ""
+
+#: addons/widgets/contact-form-slider.php:119
+#: addons/widgets/layer-slider.php:1645
+msgid "Slider Bg Image"
+msgstr ""
+
+#: addons/widgets/blog-post.php:171 addons/widgets/carvis-service.php:220
+#: addons/widgets/client-logo.php:100 addons/widgets/contact-form-slider.php:99
+#: addons/widgets/contact-slider.php:133 addons/widgets/feature-slider.php:151
+#: addons/widgets/instagram-slider.php:100 addons/widgets/layer-slider.php:242
+#: addons/widgets/mixlax-gallery.php:137
+#: addons/widgets/mixlax-pricing-slider.php:132
+#: addons/widgets/post-details-slider.php:76
+#: addons/widgets/project-slider.php:211
+#: addons/widgets/service-details-slider.php:76
+#: addons/widgets/service-slider.php:142 addons/widgets/team-member.php:257
+msgid "Slider Control"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:122 addons/widgets/layer-slider.php:1105
+msgid "Slider Description"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:1113
+msgid "Slider Description Color"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:1231
+msgid "Slider Description Margin"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:1243
+msgid "Slider Description Padding"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:1124
+msgid "Slider Description Typography"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:313
+msgid "Slider Height"
+msgstr ""
+
+#: addons/widgets/contact-form-slider.php:68
+#: addons/widgets/layer-slider.php:131
+#: addons/widgets/post-details-slider.php:45
+#: addons/widgets/project-slider.php:180
+#: addons/widgets/service-details-slider.php:45
+msgid "Slider Image"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:333
+msgid "Slider Mobile Height"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:262
+msgid "Slider Nav Button On Hover?"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:250
+msgid "Slider Nav Button?"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:141
+msgid "Slider Overlay Image?"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:300
+msgid "Slider Prev Next On Hover?"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:288
+msgid "Slider Prev Next?"
+msgstr ""
+
+#: addons/widgets/project-slider.php:265
+msgid "Slider Shape Image"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:52 addons/widgets/project-slider.php:48
+msgid "Slider Style"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:104
+msgid "Slider Subtite Bg?"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:96 addons/widgets/layer-slider.php:385
+msgid "Slider Subtitle"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:393
+msgid "Slider Subtitle Color"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:820
+msgid "Slider Subtitle Margin"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:832
+msgid "Slider Subtitle Padding"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:590
+msgid "Slider Subtitle Typography"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:353
+msgid "Slider Tablet Height"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:114 addons/widgets/layer-slider.php:846
+msgid "Slider Title"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:854
+msgid "Slider Title Color"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:1079
+msgid "Slider Title Margin"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:1091
+msgid "Slider Title Padding"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:866
+msgid "Slider Title Typography"
+msgstr ""
+
+#: addons/widgets/feature-slider.php:159 addons/widgets/service-slider.php:150
+msgid "Slider To Show?"
+msgstr ""
+
+#: addons/widgets/contact-form-slider.php:79
+#: addons/widgets/feature-slider.php:117 addons/widgets/layer-slider.php:213
+#: addons/widgets/mixlax-service.php:104
+#: addons/widgets/post-details-slider.php:56
+#: addons/widgets/project-slider.php:191
+#: addons/widgets/service-details-slider.php:56
+#: addons/widgets/service-slider.php:113
+#: addons/widgets/testimonial-slider.php:127
+msgid "Slides"
+msgstr ""
+
+#: addons/footer-widgets/footer-copyright.php:39
+#: addons/footer-widgets/footer-copyright.php:72 addons/header/header.php:105
+#: addons/header/header.php:132 addons/widgets/mixlax-founder.php:85
+#: addons/widgets/team-single.php:123
+msgid "Social Icon"
+msgstr ""
+
+#: addons/footer-widgets/footer-copyright.php:168
+#: addons/footer-widgets/footer-copyright.php:299
+#: addons/widgets/team-member.php:315
+msgid "Social Icon Background Color"
+msgstr ""
+
+#: addons/footer-widgets/footer-copyright.php:271
+msgid "Social Icon Border Radius"
+msgstr ""
+
+#: addons/footer-widgets/footer-copyright.php:178 addons/header/header.php:548
+#: addons/widgets/team-member.php:293
+msgid "Social Icon Color"
+msgstr ""
+
+#: addons/widgets/team-member.php:212
+msgid "Social Icon Four"
+msgstr ""
+
+#: addons/widgets/team-member.php:327
+msgid "Social Icon Hover Background Color"
+msgstr ""
+
+#: addons/footer-widgets/footer-copyright.php:309
+#: addons/widgets/team-member.php:304
+msgid "Social Icon Hover Color"
+msgstr ""
+
+#: addons/footer-widgets/footer-copyright.php:292
+msgid "Social Icon Hover Options"
+msgstr ""
+
+#: addons/footer-widgets/footer-copyright.php:83
+#: addons/widgets/mixlax-founder.php:71 addons/widgets/team-single.php:109
+msgid "Social Icon Link"
+msgstr ""
+
+#: addons/widgets/team-member.php:223
+msgid "Social Icon Link Four"
+msgstr ""
+
+#: addons/widgets/team-member.php:148
+msgid "Social Icon Link One"
+msgstr ""
+
+#: addons/widgets/team-member.php:198
+msgid "Social Icon Link Three"
+msgstr ""
+
+#: addons/widgets/team-member.php:173
+msgid "Social Icon Link Two"
+msgstr ""
+
+#: addons/footer-widgets/footer-copyright.php:240
+msgid "Social Icon Margin"
+msgstr ""
+
+#: addons/widgets/mixlax-founder.php:60 addons/widgets/team-member.php:137
+#: addons/widgets/team-single.php:98
+msgid "Social Icon One"
+msgstr ""
+
+#: addons/footer-widgets/footer-copyright.php:161
+msgid "Social Icon Options"
+msgstr ""
+
+#: addons/footer-widgets/footer-copyright.php:252
+msgid "Social Icon Padding"
+msgstr ""
+
+#: addons/widgets/team-member.php:187
+msgid "Social Icon Three"
+msgstr ""
+
+#: addons/widgets/team-member.php:162
+msgid "Social Icon Two"
+msgstr ""
+
+#: inc/mixlaxajax.php:57
+msgid "Sorry something went wrong."
+msgstr ""
+
+#: addons/widgets/mixlax-tab.php:71
+msgid "Spa"
+msgstr ""
+
+#: addons/header/button-icon.php:184 addons/header/button-icon.php:209
+msgid "Space Around"
+msgstr ""
+
+#: addons/header/button-icon.php:183 addons/header/button-icon.php:208
+msgid "Space Between"
+msgstr ""
+
+#: addons/header/button-icon.php:185 addons/header/button-icon.php:210
+msgid "Space Evenly"
+msgstr ""
+
+#: addons/widgets/mixlax-service.php:72 addons/widgets/mixlax-service.php:109
+#: addons/widgets/service-slider.php:83 addons/widgets/service-slider.php:118
+msgid "Sports Massage"
+msgstr ""
+
+#: addons/widgets/testimonial-slider.php:210
+msgid "Star Color"
+msgstr ""
+
+#: addons/header/button-icon.php:205 addons/widgets/experience-info.php:751
+#: addons/widgets/mixlax-feature-image.php:46 inc/widgets/adver-widget.php:66
+msgid "Start"
+msgstr ""
+
+#: addons/header/logo.php:66
+msgid "Sticky logo"
+msgstr ""
+
+#: addons/widgets/feature-slider.php:67
+msgid "Strong"
+msgstr ""
+
+#: addons/footer-widgets/contact-info.php:164
+#: addons/footer-widgets/news-feed.php:144 addons/header/header.php:47
+#: addons/widgets/blog-post.php:44 addons/widgets/branch-information.php:47
+#: addons/widgets/carvis-service.php:394 addons/widgets/experience-info.php:387
+#: addons/widgets/instagram-slider.php:122 addons/widgets/offer-widget.php:90
+#: addons/widgets/pagination-layout.php:110
+#: addons/widgets/price-plan-box.php:78
+#: addons/widgets/project-details-meta.php:153 addons/widgets/skill-bar.php:107
+msgid "Style"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:94 addons/widgets/how-it-works.php:53
+#: addons/widgets/testimonial-slider.php:52
+msgid "Style Five"
+msgstr ""
+
+#: addons/widgets/blog-post.php:50 addons/widgets/carvis-service.php:93
+#: addons/widgets/contact-form.php:52 addons/widgets/how-it-works.php:52
+#: addons/widgets/layer-slider.php:59 addons/widgets/testimonial-slider.php:51
+msgid "Style Four"
+msgstr ""
+
+#: addons/footer-widgets/contact-info.php:50
+#: addons/footer-widgets/news-feed.php:46
+#: addons/footer-widgets/newsletter-widget.php:48 addons/header/header.php:50
+#: addons/widgets/about-us-image.php:50 addons/widgets/blog-post.php:47
+#: addons/widgets/branch-information.php:51 addons/widgets/button.php:46
+#: addons/widgets/call-to-action.php:76 addons/widgets/carvis-service.php:90
+#: addons/widgets/contact-form.php:49 addons/widgets/experience-info.php:47
+#: addons/widgets/how-it-works.php:49 addons/widgets/layer-slider.php:56
+#: addons/widgets/layer-slider.php:1268 addons/widgets/layer-slider.php:1399
+#: addons/widgets/mixlax-counterup.php:50 addons/widgets/mixlax-feature.php:48
+#: addons/widgets/mixlax-gallery.php:50 addons/widgets/mixlax-menu.php:90
+#: addons/widgets/mixlax-price-estimator.php:49
+#: addons/widgets/mixlax-service.php:48 addons/widgets/mixlax-video.php:49
+#: addons/widgets/project-slider.php:52 addons/widgets/separator.php:47
+#: addons/widgets/service-slider.php:48 addons/widgets/team-member.php:51
+#: addons/widgets/team-single.php:46 addons/widgets/testimonial-slider.php:48
+msgid "Style One"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:95
+msgid "Style Six"
+msgstr ""
+
+#: addons/footer-widgets/news-feed.php:48 addons/header/header.php:52
+#: addons/widgets/blog-post.php:49 addons/widgets/carvis-service.php:92
+#: addons/widgets/contact-form.php:51 addons/widgets/how-it-works.php:51
+#: addons/widgets/layer-slider.php:58 addons/widgets/mixlax-feature.php:50
+#: addons/widgets/mixlax-gallery.php:52
+#: addons/widgets/mixlax-price-estimator.php:51
+#: addons/widgets/mixlax-service.php:50 addons/widgets/mixlax-video.php:51
+#: addons/widgets/service-slider.php:50 addons/widgets/team-member.php:53
+#: addons/widgets/testimonial-slider.php:50
+msgid "Style Three"
+msgstr ""
+
+#: addons/footer-widgets/contact-info.php:51
+#: addons/footer-widgets/news-feed.php:47
+#: addons/footer-widgets/newsletter-widget.php:49 addons/header/header.php:51
+#: addons/widgets/about-us-image.php:51 addons/widgets/blog-post.php:48
+#: addons/widgets/branch-information.php:52 addons/widgets/button.php:47
+#: addons/widgets/call-to-action.php:77 addons/widgets/carvis-service.php:91
+#: addons/widgets/contact-form.php:50 addons/widgets/experience-info.php:48
+#: addons/widgets/how-it-works.php:50 addons/widgets/layer-slider.php:57
+#: addons/widgets/layer-slider.php:1269 addons/widgets/layer-slider.php:1400
+#: addons/widgets/mixlax-counterup.php:51 addons/widgets/mixlax-feature.php:49
+#: addons/widgets/mixlax-gallery.php:51 addons/widgets/mixlax-menu.php:91
+#: addons/widgets/mixlax-price-estimator.php:50
+#: addons/widgets/mixlax-service.php:49 addons/widgets/mixlax-video.php:50
+#: addons/widgets/project-slider.php:53 addons/widgets/separator.php:48
+#: addons/widgets/service-slider.php:49 addons/widgets/team-member.php:52
+#: addons/widgets/team-single.php:47 addons/widgets/testimonial-slider.php:49
+msgid "Style Two"
+msgstr ""
+
+#: addons/header/menu-shortocde.php:229
+msgid "Sub Menu Background"
+msgstr ""
+
+#: addons/header/header.php:288 addons/widgets/mixlax-menu.php:202
+msgid "Sub Menu Background Color"
+msgstr ""
+
+#: addons/header/menu-shortocde.php:272
+msgid "Sub Menu Border"
+msgstr ""
+
+#: addons/header/menu-shortocde.php:280
+msgid "Sub Menu Border Radius"
+msgstr ""
+
+#: addons/header/header.php:318
+msgid "Sub Menu Border Top Color"
+msgstr ""
+
+#: addons/header/header.php:308 addons/widgets/mixlax-menu.php:223
+msgid "Sub Menu Color"
+msgstr ""
+
+#: addons/header/menu-shortocde.php:259
+msgid "Sub Menu Padding"
+msgstr ""
+
+#: addons/header/menu-shortocde.php:240
+msgid "Sub Menu Width"
+msgstr ""
+
+#: addons/widgets/how-it-works.php:119
+msgid "Sub Title"
+msgstr ""
+
+#: addons/widgets/project-slider.php:294
+msgid "Sub Title Color"
+msgstr ""
+
+#: addons/widgets/project-slider.php:305
+msgid "Sub Title Typography"
+msgstr ""
+
+#: addons/widgets/section-title.php:79
+msgid "Subitle Tag"
+msgstr ""
+
+#: inc/widgets/newsletter-widget.php:47
+msgid "Submit"
+msgstr ""
+
+#: addons/widgets/mixlax-newsletter.php:54
+msgid "Subscribe"
+msgstr ""
+
+#: inc/widgets/newsletter-widget.php:60
+msgid "Subscribe Us"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:495
+msgid "Subtite After Shape?"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:403
+msgid "Subtite Before Shape?"
+msgstr ""
+
+#: addons/widgets/experience-info.php:134 addons/widgets/project-slider.php:71
+msgid "Subtitle"
+msgstr ""
+
+#: addons/widgets/mixlax-gallery.php:81
+msgid "Subtitle ( Style One )"
+msgstr ""
+
+#: addons/widgets/experience-info.php:437 addons/widgets/how-it-works.php:280
+#: addons/widgets/mixlax-gallery.php:177
+msgid "Subtitle Color"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:800
+msgid "Subtitle Delay In"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:780
+msgid "Subtitle Durationout"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:598
+msgid "Subtitle Font Size"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:723
+msgid "Subtitle Height"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:678
+msgid "Subtitle Left Spacing"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:638
+msgid "Subtitle Letter Spacing"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:618
+msgid "Subtitle Line Height"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:742
+msgid "Subtitle Offsetxin"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:761
+msgid "Subtitle Offsetxout"
+msgstr ""
+
+#: addons/footer-widgets/about-widget.php:162
+msgid "Subtitle Style"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:658
+msgid "Subtitle Top Spacing"
+msgstr ""
+
+#: addons/widgets/experience-info.php:450 addons/widgets/how-it-works.php:291
+msgid "Subtitle Typography"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:703
+msgid "Subtitle Width"
+msgstr ""
+
+#: addons/footer-widgets/contact-info.php:100
+msgid "Sunday"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:77
+msgid "SUPPORT & ORDER"
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:94 inc/widgets/google-map.php:51
+msgid "Support Center"
+msgstr ""
+
+#: addons/widgets/branch-information.php:161
+msgid "support@yourmail.com"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-tab.php:183
+msgid "Tab Background Color"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-tab.php:172
+msgid "Tab Color"
+msgstr ""
+
+#: addons/widgets/mixlax-tab.php:54
+msgid "Tab Description"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-tab.php:227
+msgid "Tab Hover Background Color"
+msgstr ""
+
+#: addons/widgets/mixlax-pricing-tab.php:216
+msgid "Tab Hover Color"
+msgstr ""
+
+#: addons/widgets/mixlax-tab.php:45
+msgid "Tab Title"
+msgstr ""
+
+#: inc/mixlaxcore-functions.php:179
+msgid "Tags"
+msgstr ""
+
+#: addons/widgets/team-member.php:339
+msgid "Team Box Background Color"
+msgstr ""
+
+#: addons/widgets/team-member.php:351
+msgid "Team Box Hover Background Color"
+msgstr ""
+
+#: addons/widgets/team-member.php:363
+msgid "Team Box Hover Text Color"
+msgstr ""
+
+#: addons/widgets/team-member.php:74
+msgid "Team Grid"
+msgstr ""
+
+#: addons/widgets/team-member.php:22 addons/widgets/team-member.php:39
+#: addons/widgets/team-member.php:237
+msgid "Team Member"
+msgstr ""
+
+#: addons/widgets/team-member.php:92
+msgid "Team Member Image"
+msgstr ""
+
+#: addons/widgets/team-member.php:377
+msgid "Team Member Style"
+msgstr ""
+
+#: addons/widgets/team-single.php:19
+msgid "Team Single"
+msgstr ""
+
+#: addons/widgets/team-single.php:55
+msgid "Team Single Image"
+msgstr ""
+
+#: addons/widgets/team-single.php:42
+msgid "Team Single Style"
+msgstr ""
+
+#: addons/widgets/team-member.php:47
+msgid "Team Style"
+msgstr ""
+
+#: addons/widgets/team-member.php:61
+msgid "Team Variation"
+msgstr ""
+
+#: addons/widgets/testimonial-slider.php:20
+#: addons/widgets/testimonial-slider.php:36
+msgid "Testimonial Slider"
+msgstr ""
+
+#: addons/widgets/testimonial-slider.php:44
+msgid "Testimonial Style"
+msgstr ""
+
+#: addons/header/header-contact.php:63 addons/header/header-contact.php:85
+#: addons/header/header-contact.php:87
+msgid "Text"
+msgstr ""
+
+#: addons/header/header.php:329 addons/header/header.php:428
+#: addons/widgets/mixlax-menu.php:235 addons/widgets/mixlax-menu.php:334
+msgid "Text Shadow"
+msgstr ""
+
+#: inc/widgets/demo-widget.php:154
+msgid "Text:"
+msgstr ""
+
+#: inc/mixlaxajax.php:52
+msgid "Thank you, you have been added to our mailing list."
+msgstr ""
+
+#: addons/widgets/layer-slider.php:116 addons/widgets/layer-slider.php:219
+#: addons/widgets/layer-slider.php:224 addons/widgets/layer-slider.php:229
+msgid "THE BEST CAR SERVICES PROVIDE YOU"
+msgstr ""
+
+#: addons/widgets/testimonial-slider.php:102
+msgid ""
+"The night was so exicted with full of satisfication with a good service and "
+"food."
+msgstr ""
+
+#: addons/widgets/mixlax-tab.php:74
+msgid "Therapies"
+msgstr ""
+
+#: addons/footer-widgets/quick-link.php:68
+#: addons/header/header-vertical-menu.php:59 addons/header/header.php:189
+#: addons/header/header.php:212 addons/widgets/mixlax-menu.php:64
+msgid "There are no menus in your site."
+msgstr ""
+
+#: addons/header/menu-shortocde.php:519
+msgid "Third Level Menu Items"
+msgstr ""
+
+#: inc/mixlaxajax.php:55
+msgid "This Email address is already exists."
+msgstr ""
+
+#. Description of the plugin
+msgid "This is a helper plugin of wellnez theme"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:122
+msgid "Three Column"
+msgstr ""
+
+#: addons/widgets/project-slider.php:100
+msgid "Thumb Logo"
+msgstr ""
+
+#: addons/widgets/experience-info.php:283
+msgid "Time Action Box Title"
+msgstr ""
+
+#: addons/widgets/mixlax-gallery.php:92
+msgid "Time to take rest now"
+msgstr ""
+
+#: addons/footer-widgets/news-feed.php:102 addons/widgets/blog-post.php:117
+#: addons/widgets/blog-post.php:256 addons/widgets/carvis-service.php:179
+#: addons/widgets/contact-form.php:73 addons/widgets/contact-form.php:80
+#: addons/widgets/contact-form.php:82 addons/widgets/how-it-works.php:98
+#: addons/widgets/mixlax-project.php:96 addons/widgets/offer-widget.php:57
+#: addons/widgets/project-slider.php:63 addons/widgets/project-tag-share.php:40
+msgid "Title"
+msgstr ""
+
+#: addons/widgets/mixlax-gallery.php:90
+msgid "Title ( Style One )"
+msgstr ""
+
+#: addons/widgets/mixlax-tab.php:150
+msgid "Title Background Color"
+msgstr ""
+
+#: addons/widgets/mixlax-tab.php:161
+msgid "Title Background Color On Hover"
+msgstr ""
+
+#: addons/widgets/project-details-meta.php:54
+msgid "Title Bottom Text"
+msgstr ""
+
+#: addons/footer-widgets/contact-info.php:171
+#: addons/footer-widgets/inquiry-number.php:92
+#: addons/footer-widgets/news-feed.php:151 addons/widgets/blog-post.php:264
+#: addons/widgets/carvis-service.php:402 addons/widgets/contact-form.php:149
+#: addons/widgets/how-it-works.php:262 addons/widgets/mixlax-gallery.php:188
+#: addons/widgets/mixlax-price-estimator.php:77
+#: addons/widgets/mixlax-tab.php:117 addons/widgets/offer-widget.php:98
+#: addons/widgets/pagination-layout.php:118
+#: addons/widgets/project-next-prev.php:52
+#: addons/widgets/project-slider.php:276 addons/widgets/skill-bar.php:127
+msgid "Title Color"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:1018
+msgid "Title Delay In"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:1058
+msgid "Title Duration Out"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:998
+msgid "Title Durationin"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:874
+msgid "Title Font Size"
+msgstr ""
+
+#: addons/widgets/blog-post.php:275 addons/widgets/mixlax-tab.php:128
+#: addons/widgets/pagination-layout.php:129
+#: addons/widgets/project-next-prev.php:63
+msgid "Title Hover Color"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:953
+msgid "Title Left Spacing"
+msgstr ""
+
+#: addons/footer-widgets/news-feed.php:75 addons/widgets/blog-post.php:68
+msgid "Title Length"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:914
+msgid "Title Letter Spacing"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:894
+msgid "Title Line Height"
+msgstr ""
+
+#: addons/footer-widgets/inquiry-number.php:110
+#: addons/widgets/blog-post.php:295 addons/widgets/contact-form.php:169
+#: addons/widgets/mixlax-price-estimator.php:97
+#: addons/widgets/mixlax-tab.php:193 addons/widgets/pagination-layout.php:149
+#: addons/widgets/project-next-prev.php:83
+msgid "Title Margin"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:978
+msgid "Title Offsetyin"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:1038
+msgid "Title Offsetyout"
+msgstr ""
+
+#: addons/footer-widgets/inquiry-number.php:122
+#: addons/widgets/blog-post.php:307 addons/widgets/contact-form.php:181
+#: addons/widgets/mixlax-price-estimator.php:109
+#: addons/widgets/mixlax-tab.php:205 addons/widgets/pagination-layout.php:161
+#: addons/widgets/project-next-prev.php:95
+msgid "Title Padding"
+msgstr ""
+
+#: addons/footer-widgets/about-widget.php:111
+#: addons/footer-widgets/inquiry-number.php:85
+msgid "Title Style"
+msgstr ""
+
+#: addons/widgets/section-title.php:52
+msgid "Title Tag"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:933
+msgid "Title Top Spacing"
+msgstr ""
+
+#: addons/footer-widgets/contact-info.php:182
+#: addons/footer-widgets/inquiry-number.php:103
+#: addons/footer-widgets/news-feed.php:162 addons/widgets/blog-post.php:287
+#: addons/widgets/carvis-service.php:413 addons/widgets/carvis-service.php:519
+#: addons/widgets/contact-form.php:161 addons/widgets/how-it-works.php:273
+#: addons/widgets/mixlax-price-estimator.php:89
+#: addons/widgets/mixlax-tab.php:185 addons/widgets/pagination-layout.php:141
+#: addons/widgets/project-next-prev.php:75
+#: addons/widgets/project-slider.php:287 addons/widgets/skill-bar.php:139
+msgid "Title Typography"
+msgstr ""
+
+#: inc/widgets/adver-widget.php:123
+msgid "Title Url:"
+msgstr ""
+
+#: inc/widgets/about-me-widget.php:144 inc/widgets/about-us-widget.php:106
+#: inc/widgets/adver-widget.php:111 inc/widgets/contact-info-widget.php:127
+#: inc/widgets/demo-widget.php:130 inc/widgets/download-button.php:105
+#: inc/widgets/gallery-widget.php:80 inc/widgets/google-map.php:58
+#: inc/widgets/inquiry-widget.php:112 inc/widgets/newsletter-widget.php:75
+#: inc/widgets/product-category-filter.php:93
+#: inc/widgets/product-tag-filter.php:80 inc/widgets/recent-post-widget.php:136
+#: inc/widgets/share-widget.php:77 inc/widgets/social-widget.php:71
+msgid "Title:"
+msgstr ""
+
+#: addons/header/button-icon.php:180
+msgid "Top"
+msgstr ""
+
+#: addons/widgets/animation-image.php:78
+msgid "Top And Bottom"
+msgstr ""
+
+#: addons/header/header.php:506
+msgid "Top Bar Background Color"
+msgstr ""
+
+#: addons/header/header.php:498
+msgid "Top Bar Style"
+msgstr ""
+
+#: addons/header/menu-shortocde.php:56
+msgid "Top Level Menu Items"
+msgstr ""
+
+#: inc/widgets/share-widget.php:53
+msgid "Twitter"
+msgstr ""
+
+#: addons/widgets/testimonial-slider.php:65
+msgid "Two"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:121 addons/widgets/mixlax-menu.php:104
+msgid "Two Column"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:178 addons/widgets/mixlax-project.php:95
+msgid "Type"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:211
+msgid "Type your description here"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:191 addons/widgets/carvis-service.php:201
+#: addons/widgets/project-tag-share.php:43
+msgid "Type your title here"
+msgstr ""
+
+#: addons/widgets/contact-form.php:214 addons/widgets/offer-widget.php:109
+#: addons/widgets/price-plan-box.php:118
+msgid "Typography"
+msgstr ""
+
+#: inc/mixlaxcore-functions.php:139
+msgid "Update Category"
+msgstr ""
+
+#: inc/mixlaxcore-functions.php:172
+msgid "Update Tag"
+msgstr ""
+
+#: inc/widgets/about-me-widget.php:153 inc/widgets/about-us-widget.php:115
+#: inc/widgets/adver-widget.php:120 inc/widgets/contact-info-widget.php:137
+#: inc/widgets/demo-widget.php:139
+msgid "Upload Image"
+msgstr ""
+
+#: addons/header/header.php:149
+msgid "Upload Logo"
+msgstr ""
+
+#. Author of the plugin
+msgid "Vecurosoft"
+msgstr ""
+
+#: addons/widgets/mixlax-menu.php:77
+msgid "Vertical"
+msgstr ""
+
+#: addons/header/button-icon.php:175
+msgid "Vertical Align"
+msgstr ""
+
+#: addons/header/header-vertical-menu.php:18
+#: addons/header/header-vertical-menu.php:37
+msgid "Vertical Menu"
+msgstr ""
+
+#: inc/widgets/adver-widget.php:59
+msgid "Very"
+msgstr ""
+
+#: addons/widgets/mixlax-video.php:18 addons/widgets/mixlax-video.php:37
+msgid "Video"
+msgstr ""
+
+#: addons/widgets/image.php:102
+msgid "Video Button"
+msgstr ""
+
+#: addons/widgets/image.php:277
+msgid "Video Button Background Color"
+msgstr ""
+
+#: addons/widgets/image.php:288
+msgid "Video Button Background Hover Color"
+msgstr ""
+
+#: addons/widgets/image.php:255
+msgid "Video Button Color"
+msgstr ""
+
+#: addons/widgets/image.php:266
+msgid "Video Button Hover Color"
+msgstr ""
+
+#: addons/widgets/image.php:299
+msgid "Video Button Ripple Effect Color"
+msgstr ""
+
+#: addons/widgets/image.php:246
+msgid "Video Button Style"
+msgstr ""
+
+#: addons/widgets/experience-info.php:151 addons/widgets/mixlax-video.php:77
+msgid "Video Button Text"
+msgstr ""
+
+#: addons/widgets/experience-info.php:160
+msgid "Video Button Url"
+msgstr ""
+
+#: addons/widgets/image.php:114
+msgid "Video Link"
+msgstr ""
+
+#: addons/widgets/mixlax-gallery.php:73
+msgid "Video Link ( Style One )"
+msgstr ""
+
+#: addons/widgets/mixlax-video.php:45
+msgid "Video Style"
+msgstr ""
+
+#: addons/widgets/mixlax-video.php:86
+msgid "Video Title"
+msgstr ""
+
+#: addons/widgets/layer-slider.php:204 addons/widgets/mixlax-video.php:69
+msgid "Video Url"
+msgstr ""
+
+#: addons/widgets/project-details-meta.php:120
+msgid "Video Url?"
+msgstr ""
+
+#: addons/widgets/team-member.php:708
+msgid "View Profile"
+msgstr ""
+
+#: inc/mixlaxcore-functions.php:103
+msgid "View Project"
+msgstr ""
+
+#: addons/widgets/experience-info.php:153
+msgid "Watch Video"
+msgstr ""
+
+#: addons/widgets/experience-info.php:59
+msgid "WE HAVE 25 YEARS"
+msgstr ""
+
+#: addons/footer-widgets/about-widget.php:45
+msgid "We Serve Quality Food"
+msgstr ""
+
+#: addons/widgets/experience-info.php:185
+msgid "WELCOME TO MIXLAX"
+msgstr ""
+
+#: addons/addons.php:344
+msgid "Wellnez Footer Elements"
+msgstr ""
+
+#: addons/addons.php:352
+msgid "Wellnez Header Elements"
+msgstr ""
+
+#. Name of the plugin
+#: addons/addons.php:337
+msgid "Wellnez Helper"
+msgstr ""
+
+#: addons/header/header.php:768
+msgid "What are you looking for"
+msgstr ""
+
+#: addons/footer-widgets/contact-info.php:238
+msgid "Widget Background Color"
+msgstr ""
+
+#: addons/footer-widgets/footer-copyright.php:188
+#: addons/header/button-icon.php:127 addons/widgets/image.php:146
+msgid "Width"
+msgstr ""
+
+#: addons/widgets/how-it-works.php:20 addons/widgets/how-it-works.php:127
+msgid "Working Process"
+msgstr ""
+
+#: addons/widgets/how-it-works.php:37
+msgid "Working Process Content"
+msgstr ""
+
+#: addons/widgets/how-it-works.php:153 addons/widgets/how-it-works.php:176
+msgid "Working Process Head Backgorund"
+msgstr ""
+
+#: addons/widgets/how-it-works.php:185
+msgid "Working Process Head Even Backgorund"
+msgstr ""
+
+#: addons/widgets/how-it-works.php:162
+msgid "Working Process Head Odd Backgorund"
+msgstr ""
+
+#: addons/widgets/how-it-works.php:64
+msgid "Working Process Head Text"
+msgstr ""
+
+#: addons/widgets/how-it-works.php:199
+msgid "Working Process Shape Image"
+msgstr ""
+
+#: addons/widgets/how-it-works.php:210
+msgid "Working Process Shape Image One"
+msgstr ""
+
+#: addons/widgets/how-it-works.php:238
+msgid "Working Process Shape Image Three"
+msgstr ""
+
+#: addons/widgets/how-it-works.php:224
+msgid "Working Process Shape Image Two"
+msgstr ""
+
+#: addons/widgets/how-it-works.php:45
+msgid "Working Process Style"
+msgstr ""
+
+#: addons/header/header-contact.php:153
+msgid "Wrapper"
+msgstr ""
+
+#: addons/header/header-contact.php:161
+msgid "Wrapper Margin"
+msgstr ""
+
+#: addons/header/header-contact.php:173
+msgid "Wrapper Padding"
+msgstr ""
+
+#: addons/widgets/experience-info.php:194
+msgid "Write Abpout Us Description"
+msgstr ""
+
+#: addons/widgets/contact-form.php:91
+msgid "Write Description"
+msgstr ""
+
+#: addons/widgets/about-us-counter-box.php:99
+#: addons/widgets/mixlax-counterup.php:81
+#: addons/widgets/mixlax-counterup.php:111
+msgid "Years Of Experience"
+msgstr ""
+
+#: addons/widgets/carvis-service.php:105 addons/widgets/carvis-service.php:241
+#: addons/widgets/client-logo.php:130
+#: addons/widgets/contact-form-slider.php:109 addons/widgets/image.php:104
+#: addons/widgets/instagram-slider.php:110 addons/widgets/layer-slider.php:67
+#: addons/widgets/layer-slider.php:106 addons/widgets/layer-slider.php:196
+#: addons/widgets/layer-slider.php:252 addons/widgets/layer-slider.php:264
+#: addons/widgets/layer-slider.php:278 addons/widgets/layer-slider.php:290
+#: addons/widgets/layer-slider.php:302 addons/widgets/layer-slider.php:405
+#: addons/widgets/layer-slider.php:497
+#: addons/widgets/post-details-slider.php:86
+#: addons/widgets/post-details-slider.php:98
+#: addons/widgets/post-details-slider.php:110
+#: addons/widgets/project-slider.php:221 addons/widgets/project-slider.php:233
+#: addons/widgets/project-slider.php:245
+#: addons/widgets/service-details-slider.php:86
+msgid "Yes"
+msgstr ""
+
+#: inc/mixlaxajax.php:40
+msgid "You are not allowed."
+msgstr ""
+
+#: addons/widgets/feature-slider.php:85 addons/widgets/feature-slider.php:123
+#: addons/widgets/feature-slider.php:128 addons/widgets/feature-slider.php:133
+#: addons/widgets/feature-slider.php:138
+msgid ""
+"You can simply pick your favourite package therapy and buy it as a voucher."
+msgstr ""
+
+#: inc/widgets/adver-widget.php:57
+msgid "Your"
+msgstr ""
+
+#: inc/widgets/newsletter-widget.php:67
+msgid "Your Email Address"
+msgstr ""
+
+#: addons/widgets/feature-slider.php:127
+msgid "Your Treatment"
+msgstr ""
+
+#: addons/widgets/mixlax-counterup.php:124
+msgid "Yr Experience"
+msgstr ""
+
+#: addons/widgets/google-map.php:62
+msgid "Zoom"
+msgstr ""
