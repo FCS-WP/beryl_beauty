@@ -1,7 +1,14 @@
-.category-style1{
-    height: 200px;
-    outline: 1px solid #62638e !important;
+.category-style1 {
+  height: 200px;
+  outline: 1px solid #62638e !important;
 }
 .cart_totals {
-    border: 0 !important;
+  border: 0 !important;
+}
+ol.flex-control-nav.flex-control-thumbs img {
+  height: 100% !important;
+  object-fit: cover;
+}
+.product-img video {
+  max-height: 250px;
 }
