@@ -325,9 +325,12 @@ if (!function_exists('wellnez_loop_product_thumbnail')) {
             the_post_thumbnail();
             echo '</a>';
         } elseif (!empty($video_url)) {
-            echo '<video width="100%" height="100%" controls="false" loop="true" autoplay="true">';
+            echo '<a href="' . esc_url(get_permalink()) . '">';
+            echo '<video width="100%" height="100%" muted loop="true" autoplay="true">';
             echo '<source src="' . $video_url . '" type="video/mp4">';
             echo '</video>';
+            echo '</a>';
+
         } else {
             echo '<a href="' . esc_url(get_permalink()) . '">';
             echo '<img src="' . wc_placeholder_img_src() . '">';
