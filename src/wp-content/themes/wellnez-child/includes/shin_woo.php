@@ -20,7 +20,7 @@ function display_product_video_url_meta_box($post)
 ?>
   <label for="product_video_url">Link Video Product:</label>
   <input type="text" id="product_video_url" name="product_video_url" value="<?php echo esc_url($video_url); ?>" style="width: 100%;" />
-<?php
+  <?php
 }
 
 function save_product_video_url_meta_box($post_id)
@@ -37,19 +37,39 @@ function display_product_video_on_single_product()
   global $post;
 
   $video_url = get_post_meta($post->ID, '_product_video_url', true);
-?>
-
-  <div data-thumb="<?php echo THEME_URL . '-child/assets/icons/thumb-video.png'; ?>" data-thumb-alt="" class="woocommerce-product-gallery__image product-video" style="width: 496px; margin-right: 0px; float: left; display: block;">
+  if (has_post_thumbnail($post->ID)) :
+  ?>
     <?php if (!empty($video_url)) : ?>
-      <a data-elementor-open-lightbox="no">
-        <video width="100%" height="100%" controls="false" loop="true" autoplay="true">
-          <source src="<?php echo $video_url; ?>" type="video/mp4">
-        </video>
-      </a>
-    <?php endif; ?>
-    <?php ?>
-  </div>
 
-<?php
+      <div data-thumb="<?php echo THEME_URL . '-child/assets/icons/thumb-video.png'; ?>" data-thumb-alt="" class="woocommerce-product-gallery__image product-video" style="width: 496px; margin-right: 0px; float: left; display: block;">
+        <a data-elementor-open-lightbox="no">
+          <video width="100%" height="100%" controls="false" loop="true" autoplay="true">
+            <source src="<?php echo $video_url; ?>" type="video/mp4">
+          </video>
+        </a>
+        <?php ?>
+      </div>
+    <?php endif; ?>
+
+  <?php endif; ?>
+  <?php
+
 }
 add_action('woocommerce_product_thumbnails', 'display_product_video_on_single_product', 0, 0);
+
+
+add_filter('woocommerce_single_product_image_thumbnail_html', function ($html, $post_thumbnail_id) {
+  global $post;
+
+  $video_url = get_post_meta($post->ID, '_product_video_url', true);
+  if (! $post_thumbnail_id) : ?>
+    <div class="woocommerce-product-gallery__image--placeholder">
+      <video width="100%" height="100%" controls="false" loop="true" autoplay="true">
+        <source src="<?php echo $video_url; ?>" type="video/mp4">
+      </video>
+    </div>
+    <?php return; ?>
+  <?php endif; ?>
+<?php
+  return $html;
+}, 10, 2);
